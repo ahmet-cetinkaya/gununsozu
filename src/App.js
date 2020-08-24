@@ -24,10 +24,10 @@ function App() {
     setWord(wordsList[getRndInteger(0, wordsList.length)]);
   }
   return (
-    <>
+    <div style={{ margin: "1rem" }}>
       <h3 style={{ margin: "0" }}>{word.text}</h3>
       <p style={{ textAlign: "right", fontSize: "0.8rem", margin: "0" }}>- {word.author}</p>
-    </>
+    </div>
   );
 }
 
