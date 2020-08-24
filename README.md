@@ -1,0 +1,4 @@
+
+Merhaba, [notion](https://www.notion.so/) [not sayfası](https://www.notion.so/ahmetcetinkaya/gununsozu-277ac52a2efb425f841bd9ff749bcf07)na gömmek için çok küçük bir günlük söz uygulaması yaptım. Şimdilik küçük bir veritabanı var, ilerledikçe artırmayı düşünüyorum. Siz de kullanmak istiyorsanız kullanabilir, geliştirebilirsiniz.
+
+Hello, I made a very small daily mention app to embed in [notion](https://www.notion.so/) [note page](https://www.notion.so/ahmetcetinkaya/gununsozu-277ac52a2efb425f841bd9ff749bcf07). There is a small database for now, I think to increase it as I progress. If you want to use it, you can use it, you can develop it.
