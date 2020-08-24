@@ -546,6 +546,221 @@
     { "text": "Eğer bir metot bir sınıf değişkeni ya da bir sınıf metodunu kullanmıyorsa, bu metodun bu sınıfta ne işi var? #srp", "author": "Özcan Acar" },
     { "text": "En zahmetsiz edinilen meslek? Yazılımcılık. En zor kavranan meslek? Yazılımcılık", "author": "Özcan Acar" },
     { "text": "Yazılımcı olarak ne zaman emekli olurum? Öldüğümde!", "author": "Özcan Acar" },
-    { "text": "Yazdığın kodu bir süre sonra beğenmiyorsan, öğreniyorsun demektir.", "author": "Özcan Acar" }
+    { "text": "Yazdığın kodu bir süre sonra beğenmiyorsan, öğreniyorsun demektir.", "author": "Özcan Acar" },
+    { "text": "Teknoloji bir fikir değil, fikri elde etme yoludur. O yüzden teknolojiye aşırı hayranlık duymamalı, ondan korkmamalısınız.", "author": "John Hegarty" },
+    {
+      "text": "Teknoloji hiçbir şeydir. Asıl önemli olan insanların özünde iyi ve zeki olduklarına, onlara gerekli araçlar verildiği taktirde mükemmel işler başaracağına duyduğunuz inançtır.",
+      "author": "Elyssa Friedland"
+    },
+    { "text": "Ev bilgisayarları devrimi ile birlikte ortaya çıkan en iyi şey, insan mantığının sınırlı olduğunun anlaşılmasıdır.", "author": "Özcan Acar" },
+    {
+      "text": "Teknolojiyi tümüyle yermek, tuzdan arındırılmış deniz suyu ile yeşeren bahçeleri görmezlikten gelmek, onu gözü kapalı övmek ise Hiroşima’yı unutmak demektir.",
+      "author": "Stuart Chase"
+    },
+    { "text": "Bir bilgisayar kötü bir yöneticiyi iyi bir yöneticiye dönüştüremez. Kötü bir yöneticiyi hızlı, iyi bir yöneticiyi ise çok hızlı yapar.", "author": "Edward Esber" },
+    { "text": "Yazılımcı olarak ne zaman emekli olurum? Öldüğümde!", "author": "Özcan Acar" },
+    {
+      "text": "Yeni bir teknoloji bazen yıktıklarından daha fazlasını yaratır, yarattıklarından daha fazlasını yıkar. Ancak bu hiçbir zaman tek yönlü olmaz.",
+      "author": "Neil Postman"
+    },
+    {
+      "text": "Bilgi toplumunda insan her zamankinden daha hızlı, teknolojiyle birçok şeyi elde edebiliyor fakat tarım toplumundaki huzuru ve dengeyi sunamıyor.",
+      "author": "Nevzat Tarhan"
+    },
+    {
+      "text": "Bizi birleştirmeyi vaat eden teknoloji bile bizi birbirimizden ayırıyor. Artık her birimiz tüm dünyayla elektronik bağlantı içindeyiz, ama aslında son derece yalnızız.",
+      "author": "Dan Brown"
+    },
+    { "text": "İnsanoğlu, hala tüm bilgisayarların en alışılmadık olanıdır.", "author": "John F. Kennedy" },
+    { "text": "Teknoloji sayesinde herkesin kapısı, kocaman bir pencereye dönüşebiliyor.", "author": "Daniel Palmer" },
+    { "text": "Mikrobilgisayar işinde olmak, uçurumun bir metre yakınında, saatte doksan kilometre hız yapmak gibidir.", "author": "George Morrow" },
+    { "text": "Bilgisayar devrimi dünya tarihinde yaşanan en sesli devrimdir, komik olan onun etkilerini hala küçümsememiz.", "author": "Herman Kahl" },
+    { "text": "Sadece teknoloji sayesinde kendinizi yaratmanızın ve ifade etmenizin kolaylaşması, bunu iyi yaptığınız anlamına gelmez.", "author": "John Hegarty" },
+    { "text": "İnsanın icat ettiği en verimli teknolojik makine kitaptır.", "author": "Northrop Frye" },
+    { "text": "eknolojimizin insanlığımızı aştığı aşikar bir hale geldi.", "author": "Albert Einstein" },
+    { "text": "Televizyon ve İnternet iyidir çünkü aptal insanları halkın içinde çok fazla zaman geçirmekten alıkoymaktadırlar.", "author": "Douglas Coupland" },
+    { "text": "Bugünün bilimi yarının teknolojisidir.", "author": "Edward Teller" },
+    { "text": "Bir makine elli sıradan erkeğin işini yapabilir. Ancak hiçbir makine olağanüstü bir adamın işini yapamaz.", "author": "Elbert Hubbard" },
+    { "text": "Teknoloji, henüz çalışmayan bir şeyi açıklayan bir kelimedir.", "author": "Douglas Adams" },
+    { "text": "Teknoloji sadece bir araçtır. Çocukların bir arada çalışmasını sağlamak ve onları motive etmek açısından en önemlisi öğretmendir.", "author": "Bill Gates" },
+    { "text": "Tüm bu modern teknoloji, insanları bir anda her şeyi yapmaya yönlendiriyor.", "author": "Bill Watterson" },
+    { "text": "İstediğimiz şeyin, sadece işe yarayan şey olması durumunda teknolojiye sıkışıp kalırız.", "author": "Douglas Adams" },
+    { "text": "İnsanlık, yanlış nedenlerle, doğru teknolojiyi ediniyor.", "author": "R. Buckminster Fuller" },
+    { "text": "Teknolojik ilerleme, bize geriye doğru gitmek için sadece daha verimli araçlar sağlamıştır.", "author": "Aldous Huxley" },
+    { "text": "İnsan ruhu teknolojiye hakim olmalı.", "author": "Albert Einstein" },
+    { "text": "Zamanımızın büyük efsanesi, teknolojinin iletişim olmasıdır.", "author": "Libby Larsen" },
+    { "text": "Teknoloji nüfus artışını mümkün kıldı; Nüfus artışı da artık teknolojiyi vazgeçilmez kılmaktadır.", "author": "Joseph Wood Krutch" },
+    { "text": "Bilim ve teknoloji hayatlarımızda devrim yaratıyor, ancak hafıza, gelenek ve mit cevaplarımızı yansıtıyor.", "author": "Arthur M. Schlesinger" },
+    { "text": "Bilgisayarlar işe yaramaz. Sadece size cevap verebilirler.", "author": "Pablo Picasso" },
+    { "text": "Teknoloji bir yandan ölümsüzlük için iştahı kabartır, öte yandan evrensel yok oluş tehditi taşır. Teknoloji doğadan uzaklaştırılmıştır.", "author": "Don DeLillo" },
+    { "text": "İnsanlığın en büyük başarısı sanat, bilim ya da teknolojinin eserleri değil, kendi işlev bozukluğunun tanınmasıdır.", "author": "Eckhart Tolle" },
+    {
+      "text": "Önce bilgisayarın bir hesap makinesi olduğunu düşündük. Sonra sayıları ASCII ile harflere nasıl çevireceğimizi öğrendik – ve bunun bir daktilo olduğunu düşündük. Sonra grafikleri keşfettik ve bir televizyon olduğunu düşündük. World Wide Web ile, bunun bir broşür olduğunu anladık.",
+      "author": "Douglas Adams"
+    },
+    { "text": "İletişim araçları, teknolojik olarak sıkıcı hale gelene kadar sosyal olarak ilginç olmazlar.", "author": "Klay Shirky" },
+    { "text": "Yeterince ileri teknoloji, sihire eşdeğerdir.", "author": "Sir Arthur C. Clarke" },
+    { "text": "Etik, teknolojiyle yer değiştiriyor.", "author": "Narry Niven" },
+    { "text": "Çok fazla teknoloji, çok az yetenek.", "author": "Vernor Vinge" },
+    { "text": "Teknolojinin yaşam kalitesini iyileştirmedeki tüm yollarının bir listesi için lütfen üçe basın.", "author": "Alice Kahnesi" },
+    {
+      "text": "Bir teknoloji olarak kitap, bir çekiç gibidir. Yani, mükemmeldir: görevine ideal olarak uygun bir araç. Çekiçler düzeltilebilir ve değiştirilebilir ancak asla eskimez. İnşaatçıların binlerce pnömatik çivi tabancasıyla çivileri çektikleri zamanda bile, her evin bir çekice ihtiyacı vardır.",
+      "author": "James Gleick"
+    },
+    { "text": "Teknoloji, hikayelerimizi anlattığımız kamp ateşidir.", "author": "Laurie Anderson" },
+    { "text": "Asıl tehlike, bilgisayarların erkek gibi düşünmeye başlaması değil, erkeklerin bilgisayar gibi düşünmeye başlamasıdır.", "author": "Sydney J. Harris" },
+    { "text": "Yeni bir teknoloji sizin yerinize geçtiğinde, buharlı karıştırıcının bir parçası değilseniz, yolun bir parçasısınız.", "author": "Stewart Markası" },
+    { "text": "Donanım: Bir bilgisayarın tekmelenen bölümleridir.", "author": "Jeff Pesis" },
+    { "text": "Asıl sorun, makinelerin düşünüp düşünmediği değil, erkeklerin düşünüp düşünmediğidir.", "author": "B.F. Skinner" },
+    { "text": "Biyoloji şimdiye kadar yaratılmış en güçlü teknolojidir. DNA yazılımdır, protein donanımdır, hücreler fabrikalardır", "author": "Arvind Gupta" },
+    { "text": "Teknoloji, işleri yapmanın tek bir doğru yolu olduğunu varsayar ve asla öyle değildir.", "author": "Robert M. Pirsig" },
+    { "text": "İnternetten bilgi almak, yangın musluğundan bir içecek almak gibidir.", "author": "Mitchell Kapor" },
+    { "text": "Teknolojimizi bilgelikten uzak, ihtiyatsızsa geliştirmeye devam edersek, hizmetkarımız bizim cellatımız olabilir.", "author": "Omar N. Bradley" },
+    { "text": "Bilgisayarlar bikiniler gibidir. İnsanları tahminde bulunma zahmetinden kurtarırlar.", "author": "Sam Ewing" },
+    { "text": "Sanat, teknolojiye meydan okuyor ve teknoloji, sanata ilham veriyor.", "author": "John Lasseter" },
+    { "text": "Tüm teknolojimiz, mutlu bir yaşam için tamamen gereksizdir.", "author": "Tom Hodgkinson" },
+    { "text": "Teknoloji yararlı bir hizmetçi ama tehlikeli bir ustadır.", "author": "Christian Lous Lange" },
+    { "text": "Bilim ve teknoloji hayatımızı değiştirir, ancak hafıza, gelenek ve efsane bizim cevabımızı çerçeveler.", "author": "Arthur M. Schlesinger" },
+    {
+      "text": "Teknoloji hiçbir şeydir. Önemli olan, insanların bir inanca sahip olması, temel olarak iyi ve akıllı olmaları ve onlara verdiğiniz araçlarla harika şeyler yapmalarıdır.",
+      "author": "Steve Jobs"
+    },
+    { "text": "Teknolojiyi çok sevdim: eğer doğru kullanırsanız, size güç ve mahremiyet verebilir.", "author": "Cory Doctorow" },
+    {
+      "text": "Teknolojik olarak nasıl ilerlediğimizden bağımsız olarak, lütfen kitabı terk etmeyin. Maddi dünyada hiçbir şey kitaptan daha güzel değildir.",
+      "author": "Patti Smith"
+    },
+    { "text": "Teknoloji bize tekrar insan olmayı öğretiyor.", "author": "Simon Mainwaring" },
+    { "text": "Teknoloji hem insanlığın dostu hem de düşmanıdır. Gün gelecek en yakın dostumuz teknoloji yüzünden insanlık yok olacak.", "author": "Cemal SAĞLAM" },
+    {
+      "text": "Teknoloji hiçbir şeydir. Asıl önemli olan insanların özünde iyi ve zeki olduklarına, onlara gerekli araçlar verildiği taktirde mükemmel işler başaracağına duyduğunuz inançtır.",
+      "author": "Elyssa Friedland"
+    },
+    { "text": "Ev bilgisayarları devrimi ile birlikte ortaya çıkan en iyi şey, insan mantığının sınırlı olduğunun anlaşılmasıdır.", "author": "Frank Herbert" },
+    {
+      "text": "Bilgi toplumunda insan her zamankinden daha hızlı,teknolojiyle birçok şeyi elde edebiliyor fakat tarım toplumundaki huzuru ve dengeyi sunamıyor.",
+      "author": "Nevzat Tarhan"
+    },
+    { "text": "İnsanoğlu, hala tüm bilgisayarların en alışılmadık olanıdır.", "author": "John F. Kennedy" },
+    { "text": "Teknoloji sayesinde herkesin kapısı, kocaman bir pencereye dönüşebiliyor.", "author": "Daniel Palmer" },
+    { "text": "Mikrobilgisayar işinde olmak, uçurumun bir metre yakınında, saatte doksan kilometre hız yapmak gibidir.", "author": "George Morrow" },
+    { "text": "Teknoloji bir fikir değil, fikri elde etme yoludur. O yüzden teknolojiye aşırı hayranlık duymamalı, ondan korkmamalısınız.", "author": "John Hegarty" },
+    { "text": "Bilgisayar devrimi dünya tarihinde yaşanan en sesli devrimdir, komik olan onun etkilerini hala küçümsememiz.", "author": "Herman Kahl" },
+    { "text": "Sadece teknoloji sayesinde kendinizi yaratmanızın ve ifade etmenizin kolaylaşması, bunu iyi yaptığınız anlamına gelmez.", "author": "John Hegarty" },
+    { "text": "Korkarım ki bir gün teknoloji, insan etkileşiminin önüne geçecek ve aptal bir nesil ortaya çıkacak.", "author": "Albert Einstein" },
+    { "text": "Bir sonraki patlama genetik ve bilgisayarın birleştirildiği gün olacak, organik bir bilgisayardan bahsediyorum.", "author": "AlvinToffler" },
+    { "text": "Tabiat son sözü söylemeye karar verdiğinde, teknoloji sükut eder.", "author": "Nazan Bekiroğlu" },
+    {
+      "text": "Teknolojiyi tümüyle yermek, tuzdan arındırılmış deniz suyu ile yeşeren bahçeleri görmezlikten gelmek, onu gözü kapalı övmek ise Hiroşima’yı unutmak demektir.",
+      "author": "Stuart Chase"
+    },
+    {
+      "text": "Yeni bir teknoloji bazen yıktıklarından daha fazlasını yaratır, yarattıklarından daha fazlasını yıkar. Ancak bu hiçbir zaman tek yönlü olmaz.",
+      "author": "Neil Postman"
+    },
+    { "text": "İnternet; sınırların, engellerin, bayrakların ve ülkelerin bulunmadığı, taşıdığınız tek pasaport olduğu bir dünyaya giden yol olmalı.", "author": "Carlos Santana" },
+    { "text": "Artık insanlık degil, teknoloji ilerliyordu. Uygarlıklar değil, teknolojiler gelişiyordu.", "author": "Azra Kohen" },
+    { "text": "Kişisel bir bilgisayar, zekamızın bir parçası olarak bize destek olan araçtır.", "author": "Steve Jobs" },
+    { "text": "Bir bilgisayar kötü bir yöneticiyi iyi bir yöneticiye dönüştüremez. Kötü bir yöneticiyi hızlı, iyi bir yöneticiyi ise çok hızlı yapar.", "author": "Edward Esber" },
+    { "text": "Yaratıcı bir işadamına bilgisayarlarla ilgili bir şey öğretmek, bir programcıya iş hayatını öğretmekten çok daha kolaydır.", "author": "Peter Lawson" },
+    { "text": "Teknoloji bir fikir değil, fikri elde etme yoludur. O yüzden teknolojiye aşırı hayranlık duymamalı, ondan korkmamalısınız.", "author": "John Hegarty" },
+    {
+      "text": "Teknoloji hiçbir şeydir. Asıl önemli olan insanların özünde iyi ve zeki olduklarına, onlara gerekli araçlar verildiği taktirde mükemmel işler başaracağına duyduğunuz inançtır.",
+      "author": "Elyssa Friedland"
+    },
+    { "text": "Ev bilgisayarları devrimi ile birlikte ortaya çıkan en iyi şey, insan mantığının sınırlı olduğunun anlaşılmasıdır.", "author": "Frank Herbert" },
+    {
+      "text": "Teknolojiyi tümüyle yermek, tuzdan arındırılmış deniz suyu ile yeşeren bahçeleri görmezlikten gelmek, onu gözü kapalı övmek ise Hiroşima’yı unutmak demektir.",
+      "author": "Stuart Chase"
+    },
+    { "text": "Bir bilgisayar kötü bir yöneticiyi iyi bir yöneticiye dönüştüremez. Kötü bir yöneticiyi hızlı, iyi bir yöneticiyi ise çok hızlı yapar.", "author": "Edward Esber" },
+    { "text": "Teknoloji evcilleştirilmemiş bir köpek gibidir.", "author": "John Shirley" },
+    { "text": "", "author": "Her gün bir parçamızı daha tüketen teknoloji çağında sevgiye en son ne zaman yürekten bir merhaba demiştik, hatırlayanınız var mı?İskender Pala" },
+    {
+      "text": "Yeni bir teknoloji bazen yıktıklarından daha fazlasını yaratır, yarattıklarından daha fazlasını yıkar. Ancak bu hiçbir zaman tek yönlü olmaz.",
+      "author": "Neil Postman"
+    },
+    {
+      "text": "Bilgi toplumunda insan her zamankinden daha hızlı, teknolojiyle birçok şeyi elde edebiliyor fakat tarım toplumundaki huzuru ve dengeyi sunamıyor.",
+      "author": "Nevzat Tarhan"
+    },
+    {
+      "text": "Bizi birleştirmeyi vaat eden teknoloji bile bizi birbirimizden ayırıyor. Artık her birimiz tüm dünyayla elektronik bağlantı içindeyiz, ama aslında son derece yalnızız.",
+      "author": "Dan Brown"
+    },
+    { "text": "İnsanoğlu, hala tüm bilgisayarların en alışılmadık olanıdır.John F.", "author": " Kennedy" },
+    { "text": "Teknoloji sayesinde herkesin kapısı, kocaman bir pencereye dönüşebiliyor.", "author": "Daniel Palmer" },
+    { "text": "Mikrobilgisayar işinde olmak, uçurumun bir metre yakınında, saatte doksan kilometre hız yapmak gibidir.", "author": "George Morrow" },
+    { "text": "Bilgisayar devrimi dünya tarihinde yaşanan en sesli devrimdir, komik olan onun etkilerini hala küçümsememiz.", "author": "Herman Kahl" },
+    { "text": "Sadece teknoloji sayesinde kendinizi yaratmanızın ve ifade etmenizin kolaylaşması, bunu iyi yaptığınız anlamına gelmez.", "author": "John Hegarty" },
+    { "text": "Olamaz! İnsanlar kendi kendilerinin aleti oldular.", "author": "Henry David Thoreau" },
+    { "text": "Korkarım ki bir gün teknoloji, insan etkileşiminin önüne geçecek ve aptal bir nesil ortaya çıkacak.", "author": "Albert Einstein" },
+    { "text": "Bir sonraki patlama genetik ve bilgisayarın birleştirildiği gün olacak, organik bir bilgisayardan bahsediyorum.", "author": "AlvinToffler" },
+    { "text": "Tabiat son sözü söylemeye karar verdiğinde, teknoloji sükut eder.", "author": "Nazan Bekiroğlu" },
+    { "text": "İnternet; sınırların, engellerin, bayrakların ve ülkelerin bulunmadığı, taşıdığınız tek pasaport olduğu bir dünyaya giden yol olmalı.", "author": "Carlos Santana" },
+    { "text": "Artık insanlık değil, teknoloji ilerliyordu. Uygarlıklar değil, teknolojiler gelişiyordu.", "author": "Azra Kohen" },
+    { "text": "Kişisel bir bilgisayar, zekamızın bir parçası olarak bize destek olan araçtır.", "author": "Steve Jobs" },
+    {
+      "text": "Yaşamın, teknolojinin, bilimin vesaire belirlediği düzen ve akış yerine; doğanın ve kendi belirlediğin akışı ve düzeni belirle. O zaman yaşamdan zevk alacaksın, dene de gör.",
+      "author": "Tom Robbins"
+    },
+    {
+      "text": "Teknoloji, insanların davranışını, ahlakını, sosyoekonomik ilişkilerini asla geri dönülmeyecek bir biçimde değiştiriyor. Söz konusu değişim, insanlığın amacından sapmasına ve doğadışı, adsız bir türün yeşermesine neden oluyor.",
+      "author": "Hakan Günday"
+    },
+    { "text": "Yaratıcı bir işadamına bilgisayarlarla ilgili bir şey öğretmek, bir programcıya iş hayatını öğretmekten çok daha kolaydır.", "author": "Peter Lawson" },
+    {
+      "text": "Teknoloji geliştikçe, suçluluk olgusu da artıyor. İnsanın yararına olması gereken tüm bu gelişmeler, onu yalnızlığa ve mutsuzluğa götürürken, çocuklar da bundan hiç hak etmedikleri ölçüde paylarını alıyorlar.",
+      "author": "Haluk Yavuzer"
+    },
+    {
+      "text": "İnsanlığın trajedisi, onu güçlü kıldığını sandığı vasıtaların aynı zamanda onun kuyusunu kazması, onun güçsüzlüğünün sebebi de olmasıdır.",
+      "author": "Kemal Sayar"
+    },
+    { "text": "Teknoloji kola takıldığı anda çalışan saatleri icat etse de, sahici hayat hâlâ kurmalı saatlerde akıyor.", "author": "Tarık Tufan" },
+    {
+      "text": "Teknoloji devleri insan bedeni fikriyle barışınca şimdi gözlerimizi, parmaklarımızı ve kredi kartlarımızı yönlendirdikleri gibi tüm bedenlerimizi yönlendirmeye başlayabilir.",
+      "author": "Yuval Noah Harari"
+    },
+    { "text": "Teknoloji insanı sanal bir gerçekliğin içine çektikçe, onu gerçekten çevresinde olup bitenlere karşı duyarsızlaştırıyor.", "author": "Daniel Goleman" },
+    {
+      "text": "Teknoloji, içinde barındırdığı toplumsal düzenin köklü değerini kapsayan, bir sistem olarak görülmelidir. Bu asla basitçe bir “aletler” ve ya cihazlar meselesi değildir.",
+      "author": "John Zerzan"
+    },
+    {
+      "text": "Dünyanın mütevazı kişilere miras kalması gerekirdi ama tam aksine gençlere kaldı. Kendi ruhlarına bakmak yerine, bilgisayar ekranlarına bakan teknoloji bağımlılarına.",
+      "author": "Dan Brown"
+    },
+    {
+      "text": "Toplum ile birey arasında genişleyen ahlak farkı, ikisinin de hastalanmasının temel nedeniydi. Toplum ile birey arasına teknoloji girmişti.",
+      "author": "Hakan Günday"
+    },
+    {
+      "text": "Uygar toplumun en önemli görevlerinden biri gelenek ve töreleri, gelişen bilim ve teknoloji ışığında zaman zaman eleştirel bir süzgeçten geçirerek zamanın gerçekleriyle çelişenlerini ortadan kaldırmaktır.",
+      "author": "Celal Şengör"
+    },
+    { "text": "Bu çağın adını “teknoloji” koymuşlar, göbek adı da “yalnızlık” olsun.A.", "author": " Ali Ural" },
+    {
+      "text": "Teknolojinin nihilizmi sadece iradeden doğan gücün en mükemmel ifadesi olmasında değil, aynı zamanda anlamdan yoksun olduğu gerçeğinde yatar: ‘Neden’ ve ‘Hangi amaçla?’ sorularını teknoloji kendisine sormaz.",
+      "author": "Gerd Leonhard"
+    },
+    {
+      "text": "Teknoloji eski ekonomik sorunları çözerken bize yeni psikolojik sorunlar yarattı. İnternet sadece açık bir enformasyon kaynağı değildir, aynı zamanda açık bir güvensizlik, kendinden kuşku duyma ve utanç kaynağıdır.",
+      "author": "Mark Manson"
+    },
+    { "text": "Teknoloji toplumsal dayanışmayı yok ediyor, bireyleri birbirinden yalıtarak küçük adacıklara dönüştürüyor.", "author": "Kemal Sayar" },
+    {
+      "text": "Teknoloji, insan hayatına giren karmaşık bir maddî güç olarak insanın zihnî yeteneği ile mutabakat halinde değil. İnsanın zihnî özellikleriyle teknik ayrı yönlerde yol alıyorlar.",
+      "author": "İsmet Özel"
+    },
+    { "text": "Teknoloji size zaman kazandıracak, artık daha çok boş vaktiniz olacak dediler ama biz kalan zamanı yine teknolojinin getirdikleriyle dolduruyoruz.", "author": "" },
+    {
+      "text": "Hangi eğitim sistemi içinde olursa olsun, teknoloji ne kadar gelişirse gelişsin öğretmenin öğrenciyle göz göze geldiği bir an vardır. Öğretmenin öğrenciyle göz göze geldiği bu anın çok önemli bir potansiyel gücü vardır.",
+      "author": "Doğan Cüceloğlu"
+    },
+    {
+      "text": "Teknoloji gelişince iki şey oldu: Öncelikle, çakmak taşından yapılma bıçaklar aşama aşama nükleer füzelere evrilirken, toplumsal düzeni istikrarsızlaştırmak daha tehlikeli hale geldi. İkincisi, mağara resimleri aşama aşama televizyon yayınlarına evrilirken, insanların gözünü boyamak giderek daha kolaylaştı.",
+      "author": "Yuval Noah Harari"
+    }
   ]
 }
