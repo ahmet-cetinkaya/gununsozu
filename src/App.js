@@ -18,10 +18,10 @@ function App() {
   const [date, setDate] = useStickyState(dateNow, "date");
   const [category, setCategory] = useStickyState("bilisim", "category");
   const wordsList = words[category];
-  const [word, setWord] = useStickyState(wordsList[getRndInteger(0, wordsList.length)], "word");
+  const [word, setWord] = useStickyState(wordsList[getRndInteger(0, wordsList.length - 1)], "word");
   if (dateNow !== Number(date)) {
     setDate(new Date().getDate());
-    setWord(wordsList[getRndInteger(0, wordsList.length)]);
+    setWord(wordsList[getRndInteger(0, wordsList.length - 1)]);
   }
   return (
     <div style={{ margin: "1rem" }}>
