@@ -1,6 +1,10 @@
-import React from "react";
-import words from "./json/words.json";
-import { getRndInteger } from "./helper/random";
+import './App.scss';
+
+import React, {useCallback, useEffect} from 'react';
+
+import CategoryInput from './components/CategoryInput/CategoryInput';
+import {getRndInteger} from './helper/random';
+import words from './json/words.json';
 
 function useStickyState(defaultValue, key) {
   const [value, setValue] = React.useState(() => {
@@ -14,19 +18,70 @@ function useStickyState(defaultValue, key) {
 }
 
 function App() {
-  const dateNow = new Date().getDate();
-  const [date, setDate] = useStickyState(dateNow, "date");
-  const [category, setCategory] = useStickyState("bilisim", "category");
-  const wordsList = words[category];
-  const [word, setWord] = useStickyState(wordsList[getRndInteger(0, wordsList.length - 1)], "word");
-  if (dateNow !== Number(date)) {
-    setDate(new Date().getDate());
-    setWord(wordsList[getRndInteger(0, wordsList.length - 1)]);
-  }
+  const dateNow = new Date().getDate(),
+    [date, setDate] = useStickyState(dateNow, 'date');
+
+  const [categories, setCategories] = useStickyState(['technology'], 'category'),
+    addCategory = category => setCategories([...categories, category]),
+    removeCategory = category => setCategories(categories.filter(c => c !== category));
+
+  const wordsList = [],
+    getWordsOfCategories = useCallback(() =>
+      categories.forEach(category => wordsList.push(...words[category])),
+    );
+
+  const [word, setWord] = useStickyState('', 'word'),
+    setRandomWord = () => {
+      setWord(wordsList[getRndInteger(0, wordsList.length - 1)]);
+    };
+
+  const checkChange = () => {
+    if (word && dateNow === +date) return;
+    setDate(dateNow);
+    setRandomWord();
+  };
+
+  const handleCategoryChangeSelect = e => {
+    if (e.target.checked) addCategory(e.target.value);
+    else removeCategory(e.target.value);
+  };
+
+  useEffect(() => {
+    getWordsOfCategories();
+    checkChange();
+  }, [getWordsOfCategories]);
+
   return (
-    <div style={{ margin: "1rem" }}>
-      <h3 style={{ margin: "0" }}>{word.text}</h3>
-      <p style={{ textAlign: "right", fontSize: "0.8rem", margin: "0" }}>- {word.author}</p>
+    <div id="App">
+      <div id="optionsMenu">
+        <div id="refreshMenu">
+          <button onClick={setRandomWord}>Yenile</button>
+        </div>
+        <div id="categorySelectMenu">
+          <CategoryInput
+            label="Teknoloji"
+            value="technology"
+            isChecked={categories.includes('technology')}
+            onChange={handleCategoryChangeSelect}
+          />
+          <CategoryInput
+            label="İlham"
+            value={'inspiration'}
+            isChecked={categories.includes('inspiration')}
+            onChange={handleCategoryChangeSelect}
+          />
+          <CategoryInput
+            label="Motivasyon"
+            value="motivation"
+            isChecked={categories.includes('motivation')}
+            onChange={handleCategoryChangeSelect}
+          />
+        </div>
+      </div>
+      <div id="word">
+        <h1 id="text">{word && word.text}</h1>
+        <p id="author">{word && word.author}</p>
+      </div>
     </div>
   );
 }

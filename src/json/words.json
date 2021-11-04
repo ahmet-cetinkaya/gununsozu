@@ -1,564 +1,13 @@
 {
-  "bilisim": [
-    { "text": "Ortaya koyduğu ürünü değiştirmeye korkan meslek sahibine programcı denir.", "author": "Özcan Acar" },
-    { "text": "Kitap okumadan daha iyi olmak isteyenler birde uyuyarak denesin.", "author": "Özcan Acar" },
-    { "text": "Bir devrin programcısı olmak icin uzmanlaş!", "author": "Özcan Acar" },
-    { "text": "Bir okuma-yazma var, bir de okuyup, yazma var.", "author": "Özcan Acar" },
-    { "text": "Nitelik arttıkça, gönül alçalır, çünkü farkındalık çoğalır.", "author": "Özcan Acar" },
-    { "text": "Günlük yaşam sadece sizi en iyi olduğunuz ve çok sevdiğiniz şeylerden uzak tutmak için var.", "author": "Özcan Acar" },
-    { "text": "Okumayı sevmeyenin, kod yazmayı sevmesi en büyük tezat!", "author": "Özcan Acar" },
-    { "text": "Bir toplumun gelişmişliği sahip olduğu mutfak zenginliği ile ters orantılıdır.", "author": "Özcan Acar" },
-    { "text": "Saygıyı veren alır.", "author": "Özcan Acar" },
-    { "text": "Yaptığın işlerle değil de sahip olduğunu düşündüğün ünvanlarla anılmak, abesle iştigalin en belirgin ibaresidir.", "author": "Özcan Acar" },
-    { "text": "Yedi adımda programcı olmanın sırrı demek, roketi icat edecek bilgi lazım değil, aya kement atıp, çıkarım demek gibi bir şey…", "author": "Özcan Acar" },
-    { "text": "Bitirmek için başlamamışsan, henüz başlamamışsın.", "author": "Özcan Acar" },
-    { "text": "Cahilliği süs gibi takınmak kolay olduğundan, süs olmayan bilgiye itibar az.", "author": "Özcan Acar" },
-    { "text": "Bedeli ödenmeyen her şey emanettir.", "author": "Özcan Acar" },
-    { "text": "Çok çalışmak sadece bir sendrom. Altında yatan ise doğru tutkuya sahip olmak.", "author": "Özcan Acar" },
-    { "text": "Programcının kariyeri bilginin onu götürdügü yerdir.", "author": "Özcan Acar" },
-    { "text": "Vücut harici derdi mülkiyet, sıkı dur geliyorum edebiyet.", "author": "Özcan Acar" },
-    { "text": "Aslında hiç bir şey anlamamak çok iyiye alamet…", "author": "Özcan Acar" },
-    { "text": "Teknik borcun en büyük maliyeti bir zaman sonra kaçan programcıdır.", "author": "Özcan Acar" },
-    { "text": "Bir noktadan başka bir noktaya gitmenin en kısa yolu, işin ustasını ziyaret etmekten geçer.", "author": "Özcan Acar" },
-    { "text": "Çok yazmak çok biliyorum değil, çok öğreniyorum demektir.", "author": "Özcan Acar" },
-    { "text": "Yakından tanınmayan insanlar hakkında kafada olusan imajın %99 u öngörüşten ibarettir ve %99 oranında yanlıştır.", "author": "Özcan Acar" },
-    { "text": "Programcılıktan yöneticiliğe terfi cüzdan için yükseliş, beyin için çöküştür. Bunu amaçlamak beyni paketleyip, rafa kaldırma rızasıdır.", "author": "Özcan Acar" },
-    { "text": "Mister Miyagi programcı olsaydı, öğrencilerine kod katası yaptırırdı. ", "author": "Özcan Acar" },
-    { "text": "Marifet egoya değil, vicdana tezahürat edildiğinde harekete geçebilmektir.", "author": "Özcan Acar" },
-    {
-      "text": "Her yazılımcının bilmesi gereken 20 konu… diye bir şey olamaz. Yazılımcının ihtiyacı olan tek şey meraktır, nasıl yapıldığını merak etmek….",
-      "author": "Özcan Acar"
-    },
-    { "text": "Beraber çalışılan insanlardan bir şey öğrenilemiyorsa, orada kalmanın tek sebebi, statüyü koruma eylemidir.", "author": "Özcan Acar" },
-    { "text": "Anlamayarak yapan sadece kullanıcı, anlayarak yapan bilginin gerçek sahibidir.", "author": "Özcan Acar" },
-    { "text": "Birisi sana hocam, üstadım diye hitap ediyorsa, bu senin sahip olduğun değil, karşı tarafın sana verdigi değerdir. #havayagirmeme", "author": "Özcan Acar" },
-    { "text": "At binenin, kılıç kuşananın, kod da onu yeniden yapılandırabilenin.", "author": "Özcan Acar" },
-    { "text": "Kendinize verdiğiniz ünvanlar parayla satın aldıklarınız kadar kıymetsizdir.", "author": "Özcan Acar" },
-    { "text": "Programcılığa olan sevdanın büyüklüğü, okumasanda sahip olmaktan haz aldığın senden yaşlı kitapların adediyle doğru orantılır.", "author": "Özcan Acar" },
-    { "text": "Aslında hiç bir şey anlamamak çok iyiye alamet…", "author": "Özcan Acar" },
-    { "text": "Bir ipte iki cambaz, bir kod biriminde birden fazla sorumluluk olmaz.", "author": "Özcan Acar" },
-    { "text": "Programcıya yol gösteren sadece mantığı ve kullandığı araçlardır.", "author": "Özcan Acar" },
-    { "text": "Bilgiyi paylaşmayanın ya bilgisi yoktur ya da egosu vardır.", "author": "Özcan Acar" },
-    { "text": "Sahip olduğunuz tecrübeyi tekrar ederek yeni tecrübe sahibi olamazsınız, yani tecrübe tecrübeyi doğurmaz.", "author": "Özcan Acar" },
-    { "text": "Bilgi hisse senediyse, o zaman kazanmak için geniş çaplı çeşitliliğe (diversification) gidilmeli.", "author": "Özcan Acar" },
-    { "text": "Yazılımda, pratik yapmak başarının annesidir. ", "author": "Özcan Acar" },
-    { "text": "Sen kendine bir şey öğretemezsin, projelerin sana bir şeyler öğretir.", "author": "Özcan Acar" },
-    { "text": "Yazılımda iyi olmanın sırrı sürekli değişikliğe maruz kalmakta gizlidir.", "author": "Özcan Acar" },
-    { "text": "Yazdığın kodu bir süre sonra beğenmiyorsan, öğreniyorsun demektir.", "author": "Özcan Acar" },
-    { "text": "Hayat yuvarlayarak, götürmeye çalıştığımız tatlı bir küp şekeri. Marifet küpü küreye dönüştürebilmek.", "author": "Özcan Acar" },
-    { "text": "Kafalarda yarım kalan projelerin en güzel şahitleri mezar taşlarıdır.", "author": "Özcan Acar" },
-    { "text": "Örnek alındığında değil, rekabet edildiğinde öne geçilebilir.", "author": "Özcan Acar" },
-    { "text": "Yaptığın işin arkasını çorap söküğü gibi getirmek istiyorsan, önce bilgi ve ilimle o çorabı örmen lazım.", "author": "Özcan Acar" },
-    { "text": "Kişisel gelişim konusunda ilerleme kaydedemiyorum diyenler, aslında zora gelemiyorum demektedirler", "author": "Özcan Acar" },
-    {
-      "text": "Çoğu yazılımcının diğer yazılım paradıgmalarını öğrenmelerindeki ana güçlük, imperatif (imperative) program geliştirmeye alışmış olmalarıdır",
-      "author": "Özcan Acar"
-    },
-    { "text": "Vaktim yok diyenlere: 8 saat patronun, 8 saat de uyku için. Geri kalan 8 saat de kafandaki projelerin için..", "author": "Özcan Acar" },
-    { "text": "Kıyakcılığın sonu ayakcılık, herkesi mutlu etmeye çalışmanın sonu yanlızlıktır.", "author": "Özcan Acar" },
-    { "text": "Bilgi çağına paralel yaşıyor olmanın ibaresi nedir? Her sabah bugün ne öğrenirim sorusu yerine, bugün ne yerim sorusuna cevap aramak…", "author": "Özcan Acar" },
-    { "text": "Nesneye yönelik programlama da kalıtım kullanmak iç güveysi olmak gibidir. Üst sınıf ne isterse, nasıl isterse, o olur!", "author": "Özcan Acar" },
-    { "text": "Okuduğunda anlar, uyguladığında öğrenir, pratik yapmadığında unutursun…", "author": "Özcan Acar" },
-    {
-      "text": "Kötü programcı yoktur. Kullandığı yazılım geliştirme paradigması yetersiz ya da uygun değildir. Berbere balta verseniz, o da adam akıllı saç kesemez. Ama bu onun kötü bir berber olduğu anlamına gelmez.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Nesneye yönelik programlamada bağımlılığın diğer bir ismi kaos.", "author": "Özcan Acar" },
-    { "text": "İç bağımlılık (cohesion) ne kadar düşükse, dış bağımlılık (coupling) o kadar yüksek olacağından, uygulamayı geliştirmek zorlaşır.", "author": "Özcan Acar" },
-    { "text": "Hayatı kolaylaştırmak için çözüm üreten herkes mühendistir.", "author": "Özcan Acar" },
-    {
-      "text": "Refactoring için yöneticiden izin istemek temel ihtiyaç olan uyku için izin istemek gibidir. Terzi de nasıl dikiş atacağını kimseye sormuyor.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Bir gün daha fazla yaşayabilmek için kırk yılda kazandığın parayı gözünü kırpmadan feda ederdin.", "author": "Özcan Acar" },
-    { "text": "Çok maaş çok sorumluluk ve çok mesai anlamına gelebilir. Mutlu eden paranın fazlalığı değil, kendine ayırabildiğin zamanın çokluğudur.", "author": "Özcan Acar" },
-    { "text": "Dünyayı ben yarattım edasının ilacı, bunu düşünmeyi mümkün kılan kendi yaratıcının olduğunu unutmamaktır.", "author": "Özcan Acar" },
-    { "text": "İyi programcalarla değil, sadece iyi araç ve yazılım metotlarıyla bulgarın önüne geçilebilir.", "author": "Özcan Acar" },
-    { "text": "Azim çalışır, tutku çalıştırır.", "author": "Özcan Acar" },
-    { "text": "Çoğu insan azimliyim yerine hırslıyım diyor. Azim != Hırs. Azim başı göğe erdirir, hırs eninde, sonunda yerin dibine sokar.", "author": "Özcan Acar" },
-    { "text": "Tutku başarının anasıdır, azim de babası.", "author": "Özcan Acar" },
-    {
-      "text": "Bir sınıfı test edebilmenin anahtarı new direktifinde yatar. New ile bir nesne oluşturamıyorsam, o sınıfı test etmek için kırk dereden su getiririm.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Merhamet olmadan maneviyat olmaz.", "author": "Özcan Acar" },
-    { "text": "Önemli olan bilgi sahibi olmak değil, sahip olunan bilgi ile ne yapıldığıdır.", "author": "Özcan Acar" },
-    { "text": "Maneviyat ihtiva etmeyen terbiyeden geri vermesini bilmeyen tüketiciler türer. Tüketimde sınır da tanımazlar.", "author": "Özcan Acar" },
-    { "text": "Evde eli alet tutan eşinin, iş yerinde hatasız kod yazan patronunun gözüne girer ;-)", "author": "Özcan Acar" },
-    { "text": "Devop ların yanında birde elektronikle ugraşan programcılar var. Onlar Devronik.", "author": "Özcan Acar" },
-    { "text": "Hedef mıknatıs gibidir, kendine doğru çeker.", "author": "Özcan Acar" },
-    { "text": "Başarı kazanılan parayla ölçülseydi, spor toto milyonerleri dünyanın en başarılı insanları olurlardı.", "author": "Özcan Acar" },
-    { "text": "Severek öğrendiğin her yeni bir şey zihnine yeni bir kanat takar.", "author": "Özcan Acar" },
-    { "text": "Gerçek birim (unit) testleri ağ kablosu çekildiğinde bile çalışan testlerdir. Ağsız çalışmıyorsa, entegrasyon testidir.", "author": "Özcan Acar" },
-    { "text": "Severek öğrendiğin her yeni birşey zihnine yeni bir kanat takar.", "author": "Özcan Acar" },
-    { "text": "Başarı kazanılan parayla ölçülseydi, spor toto milyonerleri dünyanın en başarılı insanları olurlardı.", "author": "Özcan Acar" },
-    { "text": "Hedef mıknatıs gibidir, kendine doğru çeker.", "author": "Özcan Acar" },
-    { "text": "Devop’ların yanında birde elektronikle uğraşan programcılar var. Onlar da Devronik.", "author": "Özcan Acar" },
-    { "text": "Önemli olan bilgi sahibi olmak değil, sahip olunan bilgi ile ne yapıldığıdır.", "author": "Özcan Acar" },
-    { "text": "Yazılımda fazla mesai yapılmayacak diye bir kural yoktur. Lakin fazla mesai bir kural haline gelmemelidir.", "author": "Özcan Acar" },
-    { "text": "Başarı devamlı kurban vermektir.", "author": "Özcan Acar" },
-    { "text": "Bilgi girdiğin karanlık oda için ışıktır.", "author": "Özcan Acar" },
-    { "text": "Yapılması gereken işlerde en büyük sorun zaman yetersizliği değil, atılması gereken bir sonraki adımın bilinmemesidir.", "author": "Özcan Acar" },
-    { "text": "Ne oldum değil, yarın ne öğreneceğim demeli.", "author": "Özcan Acar" },
-    {
-      "text": "Paranın kıymetini bir şeyler üretip, sattığında anlarsın, maaş alarak değil. Hele, hele ürettiğin şeyler geçim kaynağın olmak zorundaysa…",
-      "author": "Özcan Acar"
-    },
-    {
-      "text": "Yazılımda başarının sırri başkalarının bireye bir şeyler ögretmesi değil, bireyin kendi kendine öğrenebilme kabiliyetine sahip olmasıdır.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Öğrenmenin en efektif yolu hizmet etmektir, çırağın ustasının ihtiyaçlarını görmesi gibi. Bu hizmet ustaya ya da insanlığa olabilir.", "author": "Özcan Acar" },
-    {
-      "text": "Sahip olduğu API’yi sunduğu sınıfları genişleterek kullanmaya zorlayan çatı bankadan kredi çekmek gibi kullanıcısını kendine bağımlı kılar.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Clean code için şimdi vaktimiz yok. Ne için var? Projeyi adım, adım batırmak için mi?", "author": "Özcan Acar" },
-    { "text": "Objektif kalabilmenin sırrı, acı versede karşıt görüşe kulak vermeden geçer.", "author": "Özcan Acar" },
-    { "text": "Amaç olmadan motivasyon balon gibi zamanla söner.", "author": "Özcan Acar" },
-    { "text": "Aklında en az bir proje ile etrafta gezinmeyen şahsı sadece emeklilik hayalleri mutlu eder.", "author": "Özcan Acar" },
-    { "text": "Başarının habercisi istikrarlı başarısızlık serisidir.", "author": "Özcan Acar" },
-    { "text": "Gerçek özgürlük ve ayrıcalık tutku ile bağlı olduğun işi yapabilmektir.", "author": "Özcan Acar" },
-    { "text": "Her insan potansiyel bir iyilik meleğidir.", "author": "Özcan Acar" },
-    { "text": "Parlak ve yapıcı fikirler mutlu ve zinde akıllara gelir.", "author": "Özcan Acar" },
-    { "text": "Sağlam kafa sağlam vucutta bulunur. Sağlıklı programcı iyi programcıdır.", "author": "Özcan Acar" },
-    { "text": "Suratından gülücüğü düşüren, insan ilişkilerini yerden toplar.", "author": "Özcan Acar" },
-    { "text": "Özür dileyebilmek…. Şismiş egoların çok uzağında olan hayattaki en önemli yetilerden bir tanesi.", "author": "Özcan Acar" },
-    {
-      "text": "Yazılım bir sanattır, yaşam biçimidir demiş. Deterministik olmak zorunda olan mühendis kafasıyla nasıl bağdaştırıyorlar, merak ediyorum!",
-      "author": "Özcan Acar"
-    },
-    {
-      "text": "Programcının hayatını zorlaştıran bilginin yarı ömrünün çok düşük olması değil, mikroişlemcilerdeki çekirdek sayısının devamlı artmasıdır.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Arduino ile Scrum’ın ortak yanı nedir? İkisinin de var oluşlarının temellerindeki prensipleri maskelemede üstüne yoktur.", "author": "Özcan Acar" },
-    { "text": "Başarılı olmak için daha çok çalışman gerektiğini ne zaman anlarsın? Başarılı olmak için daha çok çalışmaya başladığında.", "author": "Özcan Acar" },
-    { "text": "Az para veriyorlar diye değil, bana bir şey öğretemiyorlar diye yeni iş aranır.", "author": "Özcan Acar" },
-    { "text": "Başkası için çalışmak onun geleceğini inşa etmektir.", "author": "Özcan Acar" },
-    { "text": "Mikrodenetleyicilerle uğraşmak girişimci ruhun beyin jimnastiği aktivitelerinin çalışma sahasını genişletiyor.", "author": "Özcan Acar" },
-    { "text": "Mikrodenetleyici dünyasına adım atmanın bedeli: 3 adet yanmış ATmega8, breadboard başında sabahlamalar ve santim ilerlememiş olmak.", "author": "Özcan Acar" },
-    { "text": "Toplumların gelişmişlik oranları bireylerinin bilgi playlaşımı için kurdukları dernek sayısıyla doğru orantılıdır.", "author": "Özcan Acar" },
-    { "text": "Projenin sallantıda olduğunun en sağlam indikatörü nedir? Yazılımcıların dua edelim de olsun ya da insallah yarın çalışır demeleri.", "author": "Özcan Acar" },
-    { "text": "İyi programcı karmaşayı koddan uzak tutandır, içine sokan değil!", "author": "Özcan Acar" },
-    { "text": "Para tutanın, aşk sevenin, bilgi paylaşanındır.", "author": "Özcan Acar" },
-    {
-      "text": "ÜDD (Ümit Driven Development) nin diğer güzel bir örneği paralel çalışan bir programı logging kullanarak anlamaya ve debug etmeye çalışmaktır.",
-      "author": "Özcan Acar"
-    },
-    { "text": "ÜDD (Ümit Driven Development) nin en guzel örneği, ana nedenini (root cause) anlamadan kodu değiştirerek, sorun çözmeye çalışmaktır.", "author": "Özcan Acar" },
-    { "text": "Neden olduğunu anlamadan sorun çözmeye kalkmak, bir uçağın kokpitinde şu düğmeye de başalım, bakalim ne olacak demek gibidir.", "author": "Özcan Acar" },
-    { "text": "Temel elektronik bilgisi olmadan mikrodenetleyicilerle ilgilenmek, nota bilmeden müzik yapmak gibi bir şeydir.", "author": "Özcan Acar" },
-    { "text": "Eksi(k) olan elektron çekirdeğine gitme egilimindeyse, eksi(k) bilgili çırak ustasına gitme, onu arama eğiliminde olmalıdır.", "author": "Özcan Acar" },
-    { "text": "Aklında en az bir proje ile etrafta gezinmeyen şahsı sadece emeklilik hayalleri mutlu eder.", "author": "Özcan Acar" },
-    { "text": "Filozofa sormuşlar dürüstlük nedir diye. Beden için acı, ruh için ilaç demiş.", "author": "Özcan Acar" },
-    { "text": "İnsan oğrendiği her şeyi çok çabuk unutur. Onların beyinde kalıcı olmalarını sağlamanın tek yolu pratik yapmaktır. #kodkata", "author": "Özcan Acar" },
-    { "text": "Müşterinin yüzünü güldürmekdikten sonra en muazzam teknik çözüm bile hiçbir şey ifade etmez. #müşterigüdümlüyazılımcı", "author": "Özcan Acar" },
-    { "text": "Olduğundan az görünmeyi zor kılan tersinin çok kolay olmasıdır. İnsan her zaman kolayı tercih eden bir mahluktur.", "author": "Özcan Acar" },
-    { "text": "Ne zaman daha iyi bir programcı olurum? Kafamı koddan kaldırıp, programcılığın diğer yönleri ile ilgilendiğim zaman. #softskills", "author": "Özcan Acar" },
-    { "text": "Büyük resmi görebilmek icin uzman değil generalist olmak gerekir.", "author": "Özcan Acar" },
-    { "text": "Kitap okumayla programcı olunsa idi, dünyada iyi programcıdan gecilmezdi. #pratikyapanadam", "author": "Özcan Acar" },
-    { "text": "Her sistem en zayıf yerinden patlak verir, yazılım sistemlerinde bu test edilmeyen kod birimleridir.", "author": "Özcan Acar" },
-    { "text": "Müşterisini memnun edemeyen programcı gereksiz işler müdürü olarak sadece kendini mutlu etmiştir.", "author": "Özcan Acar" },
-    { "text": "Refactoring kodu yoğurmaksa, yeni bir programlama dili ögrenmek beyni refactor etmektir.", "author": "Özcan Acar" },
-    { "text": "Patronun değil, müşterinin ne istediği önemli.", "author": "Özcan Acar" },
-    { "text": "Yemek seçenler ile progranlama dili seçenlerin ortak yanı: ilerki bir zamanda aç kalabilme ihtimaline yakın olmaları.", "author": "Özcan Acar" },
-    { "text": "Benlik gütmek yerine benliği gütmek.", "author": "Özcan Acar" },
-    { "text": "Senior olmayı bazıları sadece bilgi kûpü olmak ve daha fazla maaş almak olarak tanımlıyor.", "author": "Özcan Acar" },
-    { "text": "Bir anlık öfke bin kalbi kırabilir, bir kalbi kazanmak bin yıl sürebilir.", "author": "Özcan Acar" },
-    { "text": "Amaç olmadan motivasyon balon gibi zamanla söner.", "author": "Özcan Acar" },
-    { "text": "Bi çalışmak için öğrenmek var, bi de öğrenmek için çalışmak…", "author": "Özcan Acar" },
-    { "text": "Yeri gelince yazdığı kodu çöpe atabilen kodun efendisi, bunu yapamayan kodun kölesidir.", "author": "Özcan Acar" },
-    { "text": "Egoist bir çırak zamanı gelince belki iyi bir programcı olabilir, ama ismi çırak yetiştirmediği için tarihin sayfalarında yer almaz.", "author": "Özcan Acar" },
-    {
-      "text": "Her gün bir kod katası yapmayan ya tembeldir ya da kata yapmayı küçümsüyordur. Demek oluyor ki tembellik ve kibir gelişimin önündeki engellerdendir.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Usta çırağını aramaz, çırak ustasını bulur. Çırağın ilk imtihanı budur.", "author": "Özcan Acar" },
-    {
-      "text": "Boş zamanlarımda yazılımla ilgilenmiyorum, sadece mesai saatlerinde demek yazılımı sevmiyorum, sadece ekmek kapısı olarak görüyorum demektir.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Esnek bağımlılığın en guzel hali.. EDA (Event Driven Architecture) ile SEDA (Staged EDA)", "author": "Özcan Acar" },
-    { "text": "Yapacak iş kalmayınca ne iş yapabilirim diye sormak ta bir geribildirimdir.", "author": "Özcan Acar" },
-    {
-      "text": "Başarısızlık batak gibidir. Çırpınmadan batmak var, süt çanağına düşüp, çırpınarak sütü maya yapan fare misali tekrar bataktan çıkmak var.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Ümit Driven Development; Bir şeyin çalışacağını ümit ederek kod yazmak.", "author": "Özcan Acar" },
-    { "text": "Yazılımcı olarak okudukların değil, uyguladıklarınsın.", "author": "Özcan Acar" },
-    { "text": "BT yaş değil, baş işidir.", "author": "Özcan Acar" },
-    { "text": "Ucuz yazılımcı peşinde olanlara duyurulur: if u pay peanuts, u get monkeys.", "author": "Özcan Acar" },
-    { "text": "Yazdığı kodu Sonar gibi kod metriklerini gösteren araçları tatmin etmek için adapte eden makyajdan başka bir şey yapmamaktadır.", "author": "Özcan Acar" },
-    { "text": "Mimarlar yazılım sisteminin enine, yazılımcılar boyuna doğru gider.", "author": "Özcan Acar" },
-    { "text": "Yeni bir API’yi yapan değil, kullanan tanıtmalı. Yapan detaylarda kaybolur, kullanım konusunda kafaları karıştırır.", "author": "Özcan Acar" },
-    { "text": "Nesneye yönelik programlamayı zor kılan, ne iş olsa yaparım, her şey elimden gelir abi diyen nesnelerdir. #teksorumlulukprensibi", "author": "Özcan Acar" },
-    { "text": "Nesneye yönelik programlama nesnelerin gizemli olmaları ve sahip oldukları bilgileri ve davranışları ulu, orta göstermemeleridir.", "author": "Özcan Acar" },
-    { "text": "Mevcut projede kod parçaları kayboluyor ve kimse bunun farkına varmıyorsa, test konseptlerinin tekrar gözden geçirilmesi gerekir.", "author": "Özcan Acar" },
-    { "text": "Kendinize daha rahat bir iş bakıyorsanız, comfort zonu seviyorsunuz demektir", "author": "Özcan Acar" },
-    { "text": "Başarısızlıklar elektrik kesilmesi gibidir, töm hafızayı resetler ve bitleri sıfırdan programlanır hale getirirler.", "author": "Özcan Acar" },
-    { "text": "Kendi yazdığı kodu test edemeyen yazılımcı motor tamir edemeyen araba tamircisi gibidir. Eninde sonunda elinde patlar.", "author": "Özcan Acar" },
-    { "text": "İyi programcıların azalmasının sebebi uzmanlaşma merağıdır. Uzmanlaşmak sonun başlangıcıdır.", "author": "Özcan Acar" },
-    { "text": "Bir programcının öğrenmesi gereken en önemli dil: Nesneye Yönelik İngilizce", "author": "Özcan Acar" },
-    { "text": "Bitler saklanbaç oynuyor. Yedi bit saklanmış, sekizinci bit sayıyor: sıfır, bir, sıfır, bir, sıfır dersem çık, bir dersem çıkma….", "author": "Özcan Acar" },
-    { "text": "On parmak yazı yazamayanı sekreter olarak işe almazlar. Programcıyım diyorsa iş değişir.", "author": "Özcan Acar" },
-    { "text": "Nasrettin hocanin ya tutarsa dediğinin yeni türkçesi start-up kelimesidir.", "author": "Özcan Acar" },
-    { "text": "Uçak bileti sağ varma garantisi ihtiva etmez, bilgisayar muhendisi olmakta iyi bir yazılımcı olmayı.", "author": "Özcan Acar" },
-    { "text": "Birçok start-up fikri pazarda limon satmanın eline su dükemez, pazara çıkamadıkları da cabası.", "author": "Özcan Acar" },
-    { "text": "Ana ile başlayan her seyi seviyorum: ana, anavatan, anadil, anadolu….", "author": "Özcan Acar" },
-    { "text": "Gerçek özgürlük ve ayrıcalık tutku ile bağlı olduğun işi yapabilmektir.", "author": "Özcan Acar" },
-    { "text": "Her bitin en büyük hayali usta bir programcının elinde yoğrulmak ve elektrik kesilene kadar kendisini özel hissetmektir.", "author": "Özcan Acar" },
-    { "text": "Nerede o eski programcılar demiş bit diğer yedi kardeşine.", "author": "Özcan Acar" },
-    { "text": "Bilginin en mükemmel hali mütevazilikle birleştiği andır.", "author": "Özcan Acar" },
-    {
-      "text": "Çok bildiğini sanmak kulakları tıkar, karşı tarafı dinletmez, yerin dibine sokar, yine de bunların farkına vardırmaz, çünkü iyi hissettirir.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Kişesel gelişimin en katıksız iki yol arkadaşı: eğlence ve acı. İkisinin de olmadığı yerde arpa boyu yol almak imkansız.", "author": "Özcan Acar" },
-    {
-      "text": "İşveren yerinde olsam yazılımcıları kontrol etmeye çalışmak yerine nasıl verimliliklerini artırabilirim sorusuna cevap bulmaya çalışırdım.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Ekip içinde fikir yürütüp müşteri ne istiyor sorusuna cevap aramak, müsteri gereksiminin analizinin yerini alamaz.", "author": "Özcan Acar" },
-    { "text": "Geliştirilen çoğu program software değil, hardware, çünkü değiştirilmeleri çok zor ya da imkansız.", "author": "Özcan Acar" },
-    { "text": "Müşterinin ne istediğini anlamadan kod yazmak, samanlıkta toplu iğne aramak gibidir.", "author": "Özcan Acar" },
-    { "text": "Test edilmeden eklenen her yeni metot bugdır.", "author": "Özcan Acar" },
-    { "text": "Refactoring yapmadan kod yazmak bakkaldan veresiye almak gibidir. Defter kabardıkça borç batağından kurtulmak imkansızlaşır.", "author": "Özcan Acar" },
-    { "text": "Bu devirde 32 bitlik bir sistem ile yazılım geliştirmeye çalışmak verimli olmanın önündeki en büyük engeldir.", "author": "Özcan Acar" },
-    { "text": "Yazılımda en önemli yetilerden birisi bakış açısını degiştirebilmektir.", "author": "Özcan Acar" },
-    {
-      "text": "Yeni programlama dilleri bir gün bir yerde belki kullanırım diye değil, ufku genişletip, bakış açısını zenginleştirsinler diye ögrenilir.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Ustalık sadece iyi kod yazmak değildir, efendilik, benlik gütmemek, usta yetiştirmek ve canlıya ve doğaya olan derin saygıdır.", "author": "Özcan Acar" },
-    { "text": "Usta olmayı zor kılan teknik değil insani yönüdür.", "author": "Özcan Acar" },
-    { "text": "Rus ruleti ile uzun bir metodun ortak yani nedir? Mutlaka patlarlar ama ne zaman patlayacakları belli olmaz.", "author": "Özcan Acar" },
-    {
-      "text": "İmpetatif tarz program yazma bir kelebeğin kanat çırpışının okyanusun öteki tarafında tsunami oluşmasına sebep olması gibidir. #donttouchstate",
-      "author": "Özcan Acar"
-    },
-    { "text": "Learning zone duvarları kafayla yarıp geçmek, panic zone denizde boğulmak, comfort zone çay bahçesinde çay içmek gibi gibi bir şey.", "author": "Özcan Acar" },
-    { "text": "Tasarım şablonları gibi algoritmalar da programcılar için ortak kelime hazinesi oluşturur ve iletişimi kolaylaştırır.", "author": "Özcan Acar" },
-    { "text": "Yazılımda çoğu konseptin doğru anlaşılmamasının sebebi, konu hakkında bir kaynak okuyup ve anladığını sanıp devam etmektir.", "author": "Özcan Acar" },
-    {
-      "text": "Aynı metni ilk okuyuş gözü kelimelere aşına eder. İkinci okuyuş cümlelerin anlaşılmasını sağlar. Üçüncü okuyuş metnin anlanımı idrak ettirir.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Okuduğunu anlamıyorsan panic, anlam verebiliyorsan learning, anlıyorsan comfort zone’dasın. Anlıyorsan, öğrenmiyorsun!", "author": "Özcan Acar" },
-    {
-      "text": "Pop metodu olmayan stack implementasyonu örneği nedir? Daldan dala atlama-öğrenme metodolojosi. Stackoverflow == BirseyOgrenilmediException",
-      "author": "Özcan Acar"
-    },
-    { "text": "Hayat bir porselen dükkanı. Nihayi amaç kırıp, dökmeden dükkandan çıkabilmek.", "author": "Özcan Acar" },
-    { "text": "En sık kullandığım Eclipse kısa yol tuşu: alt+shift+r", "author": "Özcan Acar" },
-    {
-      "text": "Gözden ırak, gönülden ırak. Elektronik ortamda tutulan kullanıcı hikayeleri, duvarda asılı olanlara nazaran çok daha az irdeleniyor. #scrumpano",
-      "author": "Özcan Acar"
-    },
-    { "text": "Uzmanlar comfort zone’larını terk etmeyi sevmez", "author": "Özcan Acar" },
-    { "text": "Bir dilin syntax’ını bilmek/anlamak, o dilin temsil ettiği konsepleri anlamış olmak anlamına gelmez. Arapça okuyup ama anlamamak gibi….", "author": "Özcan Acar" },
-    { "text": "Kod yazmak inşaatın kendisi, refactoring iç dekorasyonudur.", "author": "Özcan Acar" },
-    { "text": "Sağlam programcı kafası sağlam programcı vücudunda olur.", "author": "Özcan Acar" },
-    { "text": "Uzmanlaşmak teknoloji korkusunu artırır", "author": "Özcan Acar" },
-    {
-      "text": "Uzmanlaştığınızın en belirgin özelligi kullandığınız tek IDE’den kopamayıp, diğerlerine şans verememenizdir. #ustabilimumidelerikullanır",
-      "author": "Özcan Acar"
-    },
-    {
-      "text": "Bir uygulamanın bakımını zorlaştıran sebeplerden birisi copy/paste, diğeri sınıf hiyerarşileri oluşturup OOP’nin kalıtım özelliğini kullanmaktır.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Scrum iyi bir duck-typing örneği, istediğin yere çek.", "author": "Özcan Acar" },
-    {
-      "text": "Statik veri tipli bir dünyadan gelenler için duck-typing ilk başta tuhaf geliyor ama insan zamanla alışıp, sınıflara başka gözle bakıyor.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Fonksiyonel bir dili öğrenmek, pantalonu tersine çevirip, tersinden giymek gibi bir şey.", "author": "Özcan Acar" },
-    { "text": "Dinamik dillerde veri tipi belli olmayan değişkenlere ne denir? Tipsiz ya da tipitip :)", "author": "Özcan Acar" },
-    { "text": "Maaşın yüksekliği ustalık derecesini gösteren indikatör değildir.", "author": "Özcan Acar" },
-    { "text": "Teknoloji avukatlığı yapanlar sözde uzmandır .", "author": "Özcan Acar" },
-    { "text": "10 senede on değişik programlama diline hakim olmanın en kolay yolu, her sene iş yerini değiştirmektir.", "author": "Özcan Acar" },
-    { "text": "Geleceğe en sağlam yatırım, her sene iyi seviyede yeni bir programlama dili öğrenmektir.", "author": "Özcan Acar" },
-    { "text": "İç dünyanın en güçlü stabilizatörû uygulanan meslekten alınan hazdır.", "author": "Özcan Acar" },
-    { "text": "Programcılık == dibi olmayan eğlence kuyusu", "author": "Özcan Acar" },
-    { "text": "Yazılımclar arasında en mutsuz olanlar bu işi para için yapanlarla, daha fazla para kazanmak için yöneteciliğe terfi edenlerdir.", "author": "Özcan Acar" },
-    { "text": "Program yazma paradigmaları düzenli aralıklarla değişiyor. Bir sonraki değişiklik için hazır olmak lazım.", "author": "Özcan Acar" },
-    {
-      "text": "Programcı olarak çok iyi bir iş ortaya koyabilmek için ufkun çok geniş olması, bunun için de yarım ömür okumak, öğrenmek ve pratik yapmak gerekir.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Programcılık yüzme gibi bir şey olsaydı, programcıların yüzde kaçı karaya çıkabilirdi acaba?", "author": "Özcan Acar" },
-    { "text": "Kullandığınız programlama dili bir yemek çeşidi olsaydı, hergün aynı yemeği yemek ister miydiniz?", "author": "Özcan Acar" },
-    { "text": "Bir programcı için beyin, soyutlama, algılama ne kadar önemliyse, sağlıklı parmaklar, göz ve agrısız bir bel de önemli. #öncesağlık", "author": "Özcan Acar" },
-    { "text": "Çevik süreçlerin başarılı olma potansiyelinin önündeki en büyük engel, eski davranış biçimlerini terk edemeyen yazılımcılardır.", "author": "Özcan Acar" },
-    { "text": "Profiline software enginar yazıp, arkasına çırak ibaresini eklemek, aranıp, bulunması gereken yazılımcı prototipine işarettir.", "author": "Özcan Acar" },
-    { "text": "Yaşamınız bir fonksiyon olsaydı son bulduğunda return ile hangi değeri geri vermesini isterdiniz?", "author": "Özcan Acar" },
-    { "text": "Ana gibi yar olmaz, C gibi dürüst programlama dili olmaz.", "author": "Özcan Acar" },
-    { "text": "Sadece senior yazılımcıların olduğu bir ekipte son sözü söyleyecek bir merci olmadığı sürece neyin nasıl yapılacağı devamlı tartışılır.", "author": "Özcan Acar" },
-    { "text": "Karşı taraf konuşurken ne soyleyeceğini kurmak, karşı tarafı değil, kendini dinlemektir.", "author": "Özcan Acar" },
-    {
-      "text": "Profesyonellik söylenenleri kişisel almamak, darılmamak, her zaman alçak ve sakin sesle konuşmak, karşı tarafın söylediklerini dinlemektir.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Kişinin canı gönülden programcılığı sevip, sevmediğini anlamak için bir milyon verseler bu işi bırakır mısın sorusunu sorun.", "author": "Özcan Acar" },
-    { "text": "Hayat kocaman bir stack. Bütün günümüzü push ve pop yaparak geçiriyoruz.", "author": "Özcan Acar" },
-    { "text": "Fonksiyonel dillerin kıymetini bilmek için imperatif dillerin cefasını çekmiş olmak gerekir.", "author": "Özcan Acar" },
-    { "text": "Bir arı kovanıyla bir OOP uygulamasının ortak yani nedir? İkisinde de öğeler arasındaki ilişkileri kavramak çok zordur.", "author": "Özcan Acar" },
-    { "text": "Sövme ve övme… Tek bir harfin fazlalığı ya da eksikliği insanlarla olan ilişkinizi nasıl etkiliyor, bir deneyin. #sövmeöv", "author": "Özcan Acar" },
-    { "text": "Okumak != öğrenmek == pratik yapmak", "author": "Özcan Acar" },
-    { "text": "En makbul ekip arkadaşı amansızca tartışıp, çekiştiğin, dövesin geldiği ama öğle ve iş aralarında hoş sohbet yapabildiğin şahıstır.", "author": "Özcan Acar" },
-    { "text": "Kargaya yavrusu kuzgun gorünürmüş. Herkes kendi yazdığı kodu beğenir. #kodunabirbakabilirmiyim", "author": "Özcan Acar" },
-    { "text": "Kod yazarken iyi isimler seçemeyen bir yazılımcı bu işin ne kadar hakkını verdiğini sorgulamalı.", "author": "Özcan Acar" },
-    {
-      "text": "Yazılımcı olarak bütün bir gün boyunca sınıf/metot/değişken isimleri okuyoruz, onlara isimler veriyoruz ama yinede bu işi iyi yapamıyoruz.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Swing ile gui geliştirmek ne kadar zevkliymiş. Ön yargılarım gözlerimi kör etmiş. Özür dilerim Swing.", "author": "Özcan Acar" },
-    { "text": "Birim testi piyade ise, entegrasyon testi tank, patriot. Birim testleri her zaman gerçeği söylemez, entegrasyon testleti de yalan…", "author": "Özcan Acar" },
-    {
-      "text": "Mesai arkadaşlarınızın bir araya geldiklerinde sizin hakkınızda konuştuklarını düşünüyorsanız, yazdığınız koddan emin değilsiniz demektir.",
-      "author": "Özcan Acar"
-    },
-    {
-      "text": "Bilgi ve tecrübenin önünde saygıyla eğiliyorum. Yarım gün uğraştığım algoritmayı ustam 8 satırlık kodla yeniden yazdı. #herkesustaolabilir",
-      "author": "Özcan Acar"
-    },
-    { "text": "Beyin kullanılmayan organların fişini çekiyor. Aynı şeyler kullanılmayan yetiler için de geçerli.", "author": "Özcan Acar" },
-    { "text": "Ölümü en anlamlı kılan şey hizmet, en anlamsız kılan şey ise bir ömür buyu “hep ben” demiş olmaktır.", "author": "Özcan Acar" },
-    { "text": "Sadece mimarların yaşadığı bir dünya hayal dünyasıdır.", "author": "Özcan Acar" },
-    { "text": "Web girişimciliğinin en zevkli tarafı, kurulan platformun kısa sürede kullanıcı sayısı ve içerik olarak rakiplerini sollamasıdır.", "author": "Özcan Acar" },
-    { "text": "Yazdığı teste bak, programcıyı al.", "author": "Özcan Acar" },
-    {
-      "text": "Uygulamayı yeniden yapılandırıp, testlere el sürmeyenler, testlerin kendilerini üvey evlat gibi hissettiklerini bilmezler mi? #canımtestlerim",
-      "author": "Özcan Acar"
-    },
-    { "text": "Hata yönetimini köküne kıran girmiş gibi tek bir exception sınıfı ile yönetmek gırslığın danıskasıdır. #throw new SpecificException();", "author": "Özcan Acar" },
-    {
-      "text": "Saat 17 oldu, mesai bitti, ama sen bir türlü klavyeyi bırakamıyor musun? Program yazmak çok mu zevkli? Maddi/manevi dopdolu bir gelecek senin.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Girişimci yaptığı değil, kafasındaki bir sonraki proje ile yaşar.", "author": "Özcan Acar" },
-    { "text": "Yazılımcılar tasavvuf gibi kavramları çok hızlı ve iyi kavrayabilirler. Kavramak != Yasamak #matrix", "author": "Özcan Acar" },
-    { "text": "Tereyağından kıl çeker gibi sistemin herhangi bir tarafını değiştirebiliyorsan yaptığın tasarım o zaman tamamdır.", "author": "Özcan Acar" },
-    { "text": "Hiç bir şey bilmediğini anlayıp, çırpındıkça, daha derine batıyorsun.", "author": "Özcan Acar" },
-    { "text": "Güzel bir çözüm üreten çalışma arkadaşını övmesini bilmek gerekir.", "author": "Özcan Acar" },
-    {
-      "text": "Büyük edebiyat eserlerini okumadan edebiyat eseri yazılamayacağı gibi,usta yazılımcıların kodunu okumadan iyi programcı olmak mümkün değildir.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Rekursiyonu anlamak isteyenler Inception filmini seyretmeli. Her bir rüyanın içindeki rüya yeni bir stack frame, her kick bir return…", "author": "Özcan Acar" },
-    { "text": "Okunması ve bakımı güç programların en belirgin özelliği nedir? 5 dakikada bulmanız gereken bir hata için bir gün boyu debug yapmak…", "author": "Özcan Acar" },
-    {
-      "text": "İyi bir yazılımcı olmak için edebiyat eserleri okumak lazım. Kazanılan kelime hazinesi ve ifade gücü koda ve diğer yazı türlerine yansır.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Yaptığın işte daha iyi olmanın tek gıdası devamlı yaptığın işte iyi olmadığını düşünmektir.", "author": "Özcan Acar" },
-    { "text": "Deneme, yanılma tarzı kod yazmanın õnüne geçmenin en kolay yolu, hemen bir test sınıfı yazmaktır.", "author": "Özcan Acar" },
-    { "text": "Big Oh notasyonuyla yeni bir şey öğrenme hızın nedir?… O(n)? O(n^2)?", "author": "Özcan Acar" },
-    { "text": "Programcının yeni CV’si Github.", "author": "Özcan Acar" },
-    { "text": "Metot satır sayısı programcının kalitesini ölçmek için iyi bir metrik. Ne kadar az, o kadar iyi.", "author": "Özcan Acar" },
-    { "text": "Usta olarak görmedim kendimi, ama kalfa bile değilmişim. Şimdi çırak olarak yeniden başlıyorum.", "author": "Özcan Acar" },
-    { "text": "Bir konuda ustalaşmak için on sene gerekli olduğunu anlamak bile on sene sürüyor.", "author": "Özcan Acar" },
-    { "text": "Yazılımda ustalaşmanın önundeki en büyük engel her gün işe gidip, sekiz saat çalışmaktır.", "author": "Özcan Acar" },
-    {
-      "text": "En az değer verdiğimiz, ama en değerli varlığımız nedir? Verimli bir şeyler yapmak için kullanabileceğimiz ama bosa harcadığımız zamanımız.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Nasıl daha iyi bir yazılımcı olabilirim?", "author": "Özcan Acar" },
-    { "text": "Her fani ölümü tadar. Bazı programcılar her imkana sahip olmalarına rağmen ustalaşamadan fani olarak kalırlar.", "author": "Özcan Acar" },
-    { "text": "Kişisel gelişimde multithreading… Paralel üç programlama dilini öğrenmek.", "author": "Özcan Acar" },
-    { "text": "Ermiş meyve dalında durmaz. Ermiş programcı bildikleriyle yetinmez.", "author": "Özcan Acar" },
-    { "text": "Acaba bunu doğru mu programladım sorusuna cevap arama süresi bir birim testi yazmak için yeterlidir.", "author": "Özcan Acar" },
-    { "text": "Bir yazılımcının yaptığı işe verdiği değer yazdığı metodun satır sayısıyla ters orantılıdır.", "author": "Özcan Acar" },
-    { "text": "Sınıflar egoist, apiler minimalist, modüller koherent, bağımlılıklar esnek olmalıdır.", "author": "Özcan Acar" },
-    { "text": "Arabanın yakıtı benzin, programcının yakıtı bilgi. Yakıtın olmadan ilerleyemessin.", "author": "Özcan Acar" },
-    { "text": "Programcı için popüler dil yoktur, işi için kullandığı dil(ler) vardır.", "author": "Özcan Acar" },
-    { "text": "Programcılıkta bir üst seviyeye geçis, bu kodu nasıl daha kısa ve okunur yazarım sorusu ile başlar.", "author": "Özcan Acar" },
-    { "text": "Neden ustalaşmak isteyen bir müzisyen pratik yapma harici müzik tarihi ile ilgili kitaplar okur? #büyükresmigörebilmek", "author": "Özcan Acar" },
-    { "text": "Ufkunuzun genişlediğine canlı canlı şahit olmak istiyorsaniz fonksiyonel bir dil öğrenin. Beyin hücreleriniz size teşekkür edecektir.", "author": "Özcan Acar" },
-    { "text": "Öğrenmeyi öğrenmiş olmanın ibaresi nedir? Başkalarına öğretebilmek.", "author": "Özcan Acar" },
-    { "text": "Code reviewdan kaçan, programcı olarak sorumlu olduğu her şeyden kaçıyor demektir. #dörtgözprensibi", "author": "Özcan Acar" },
-    { "text": "İçinde code review olmayan Definition Of Done yarımdır.", "author": "Özcan Acar" },
-    { "text": "Definition Of Done ne kadar laçka ise, sürecin geri kalan kısmı da o kadar laçkadır. #balıkbaştankokar", "author": "Özcan Acar" },
-    { "text": "İsmi üstünde “kişisel gelişim”. Sizi başkası geliştiremez. Kişisel gelişiminizden kendiniz sorumlusunuz. #baskaşındanmedetumma", "author": "Özcan Acar" },
-    { "text": "Fonksiyonel dillerden kaçış var mı? Nayır!", "author": "Özcan Acar" },
-    { "text": "Bir dil, bir insan. Bir programlama dili, bir programcı.", "author": "Özcan Acar" },
-    { "text": "Gerçek yazılım ustaları süslü, püslü ünvanlar kullanmazlar.", "author": "Özcan Acar" },
-    { "text": "Yeni yazılımcı ünvanları icat edildikçe iyi yazılımcı sayısı azalıyor.", "author": "Özcan Acar" },
-    { "text": "Yazılımda bazı ünvanlar peşinde koşanlar, yazılımın özünün ne olduğunu anlamışlar mı? #ünvandeğilbeceriönemli", "author": "Özcan Acar" },
-    { "text": "Test edilemeyen kod vardır diyen kendini kandırır.", "author": "Özcan Acar" },
-    { "text": "İki boyutlu yaratıklarla sadece oop bilen programcıların ortak yani nedir? Diğer boyutlarda olup, bitenleri kavrayamazlar.", "author": "Özcan Acar" },
-    { "text": "Uzun, ince bir yoldayım, gidiyorum gündüz, gece. Yazılımcı bu türküyü söyler devamlı, ne yaptığını unutmamak için.", "author": "Özcan Acar" },
-    { "text": "Bugün çok para kazandıran bir programlama dili, yarın aynı şeyi sağlayamayabilir. #birdilbanayeter", "author": "Özcan Acar" },
-    { "text": "Lead olmayı kabul eden yazılımcı olmaya veda etmiş demektir.", "author": "Özcan Acar" },
-    { "text": "“Yazılımda ustalaşmak ne kadar sürer?” diye sormuş öğrenci. En uygun cevap “ne kadar daha yaşarsın?” sorusu olur demiş usta.", "author": "Özcan Acar" },
-    { "text": "Korkulan işler kişisel gelişim için nitrodur.", "author": "Özcan Acar" },
-    { "text": "Kod katası yapmak, çiçek tohumlarını sulamak gibidir", "author": "Özcan Acar" },
-    { "text": "Tekrar tekrar beyaz kuşağı kuşanmayı bilmeyen yazılımcı, ustalaşamaz, sadece bir konuda uzmanlaşır.", "author": "Özcan Acar" },
-    { "text": "Tek bir dili savunan yazılımcılar uzman, çok dili kullananlar ustadır. Tercih sondakinden yana olmalı.", "author": "Özcan Acar" },
-    { "text": "Ne olduğunu anlamaya çalışmak yerine soru sormak….", "author": "Özcan Acar" },
-    { "text": "Beceri bilginin yaşayan halidir.", "author": "Özcan Acar" },
-    {
-      "text": "Kitabı sadece okumak; kitabı okumak ve kitaptaki kod örneklerini uygulamak. Bu ikisi arasındaki fark kişisel gelişim açısından gece ve gündüz gibi.",
-      "author": "Özcan Acar"
-    },
-    { "text": "İki satır kod yazmayla girişimcilik olmaz.", "author": "Özcan Acar" },
-    { "text": "Her yazılımcının böyle bir profil sayfası olmalı…", "author": "Özcan Acar" },
-    {
-      "text": "Yazılımda ustalaşmanın sonu kendini programcılığa ve senden sonra gelenleri yetiştirmeye adama. Bu safhaya ulaş(a)mayanlar ne kadar usta olduklarını sorgulamalı.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Mingle gibi web tabanlı görev panosu kullanımı çevik sürecin tekerine çomak sokar. Gözden ırak, gönülden ırak!", "author": "Özcan Acar" },
-    { "text": "Yazdığı koddan utanmayanlar el kaldırsın. #elimhavada", "author": "Özcan Acar" },
-    {
-      "text": "Kod inceleme (code review) seanslarının önündeki en büyük engel, yazdığı koddan utanıp, ne yaptığını göstermek istemeyen yazılımcılardır.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Yazılımda verimlilik okunabilirlikle doğru orantılıdır. Bu sebepten dolayı temiz kod yazın diyorlar ya da dsl gibi icatlar yapıyorlar.", "author": "Özcan Acar" },
-    { "text": "Dağ peygambere gelmesse, peygamber dağa gider. Veri koda gelmesse, kod veriye gider…. #hadoop", "author": "Özcan Acar" },
-    { "text": "Lead dev arıyorlar, en az 3 yıl tecrübeli olması lazımmış. Ekip sadece bir kişiden oluşacaksa, o zaman sorun yok.", "author": "Özcan Acar" },
-    { "text": "Kodu commit etmek altına imza atmak gibidir. Bildiğim en iyi şekilde yaptım, çalışır durumda ve test ettim demektir.", "author": "Özcan Acar" },
-    {
-      "text": "Tek bir assert kullanmadan %100 code coverage oluşturmak mümkün. %100 code coverage kodun en iyi şekilde test edildiği anlamına gelmiyor.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Testlerin kodu yüzde yüz kapsamasını kodun yüzde yüz test edildiğinin ibaresi olarak görenler var.", "author": "Özcan Acar" },
-    { "text": "Yazılımda çeviklik sadece çevikliği kavramış mühendislerle mümkündür.", "author": "Özcan Acar" },
-    { "text": "Yazılım zeka işidir demiş… Yüzde doksan bilmem kaç genetik örtüştüğümüz Orangutan’da da zeka var.", "author": "Özcan Acar" },
-    { "text": "Trafik lambasında kırmızı yanınca bekleyerek küçüklere, temiz kod yazarak ekip arkadaşlarına örnek olmak….", "author": "Özcan Acar" },
-    { "text": "Arı olup her çiceğin nektarını kapmak, freelance yazılımcı olup her projeden yeni bir şeyler ögrenmek…", "author": "Özcan Acar" },
-    { "text": "Akıcı konuşabilmek için kelime hazinesi, akıcı kod yazabilmek için teknoloji ve bilgi hazinesi gerekir.", "author": "Özcan Acar" },
-    { "text": "Test konseptleri içinde en anlaşılmayanı birim (unit) testleri. Entegrasyon testi yazıp, bunun birim testi olduğunu düşünenler var.", "author": "Özcan Acar" },
-    { "text": "Birim testinin gerçek anlamda birim testi olduğunu nasıl anlarsınız? Elli tanesini aynı anda koştursanız bile yarım saniye sürmez.", "author": "Özcan Acar" },
-    { "text": ".Net ya da JEE gibi teknolojilere hakimiyet şahsın iyi bir yazılımcı olduğunun kanıtı olamaz. Yazılımcılık başka bir şey!", "author": "Özcan Acar" },
-    {
-      "text": "Başkasının kodunu anlamıyorsanız, birim testi yazıp, kullanmaya çalışın. Birim testi yabancı kod hakkında hikayeler anlatmaya başlayacaktr.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Bugün kişisel gelişiminiz için ne yaptınız?", "author": "Özcan Acar" },
-    { "text": "Bugün yazdığın koda baktığında onunla gurur duyabiliyor musun? Evet diyebiliyorsan, temiz kod yazanlar kulübüne hoşgeldin.", "author": "Özcan Acar" },
-    { "text": "Yazılımcı olarak görevim yerime başkası konabilecek şekilde iş çıkarmaktır.", "author": "Özcan Acar" },
-    { "text": "Değişkenleri private yapıp, set ve get metotları oluşturmak, evden çıkarken anahtarı kapıda bırakmak gibidir.", "author": "Özcan Acar" },
-    { "text": "Yazılım yapmayı sadece bir iş olarak görenler doğru işi yapıp yapmadıklarını sorgulamalıdır.", "author": "Özcan Acar" },
-    { "text": "Yazılımda paylaşım kültürünün en guzel örneğini açık kaynaklı projeler teşkil etmektedir.", "author": "Özcan Acar" },
-    {
-      "text": "Çok bilgi ve tecrübe sahibi olmak usta olmak mı demektir? Hayır! Bu bilgi ve tecrübeyi paylaşan gerçek ustadır. Diğeri sadece bilgi küpüdür.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Gerçek erdem yıllar süren yazılım serüveninde bir arpa boyu ilerlememiş olmayı görmek ve sil baştan yapabilmektir.", "author": "Özcan Acar" },
-    { "text": "Bir sınıfı test edebilmek için sınıf üzerinde her türlü değişliği yapmak mübahtır.", "author": "Özcan Acar" },
-    {
-      "text": "Sınıf ve metotları final yaparak telif haklarınıza sahip çıkmış olursunuz, kimse değiştirip kendi malıymış gibi satamaz, sadece kullanabilir.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Yaşa değil bilgiye, bilene değil, öğretene saygım var.", "author": "Özcan Acar" },
-    { "text": "Bir sonraki programlama dilini, dili kullanan toplumun kod paylaşma kültürüne göre seçin.", "author": "Özcan Acar" },
-    { "text": "Balkalarının iyi bir yazılımcı olma hevesinizi kırmasına izin vermeyin. Meyva veren agaç taşlanır.", "author": "Özcan Acar" },
-    { "text": "Yazılımcılara bilgi seviyesine göre değil, bilgi edinme heyecanına göre değer biçmeli.", "author": "Özcan Acar" },
-    { "text": "Birim testi olmayan bir kod tabanını nereden test etmeye başlayacağını bilemiyorsun, dağınık bir odayı toplamak gibi.", "author": "Özcan Acar" },
-    { "text": "Bir API’yi öğrenmenin en kolay yolu birim testi yazıp, API ile oynamaktır.", "author": "Özcan Acar" },
-    { "text": "Ustandan daha iyi olamassın. Kulağın boynuzu geçebilmesi için değişik ustaların yanında çalışmak gerekir.", "author": "Özcan Acar" },
-    { "text": "Scrum buzdağının görünen kısmıysa, XP (Extreme Programming) buzdağının kendisidir.", "author": "Özcan Acar" },
-    { "text": "Yazılımda çevikliğe en büyük ihanet bu konudaki cehalet ve bilip, bilmeden fikir beyan etmektir.", "author": "Özcan Acar" },
-    { "text": "Yazılımda kıdem yoktur, matruşka gibi açtıkça içinden yeni dünyalar çıkar. Bir dünyanın kıdemi, diğer dünyanın başlangıcıdır.", "author": "Özcan Acar" },
-    { "text": "Dervişin iki kefesi vardır. Birinde anladıkları, diğerinde anlayacakları. Yazılımcının bir kefesi vardır, içinde bildiğini sandıkları…", "author": "Özcan Acar" },
-    { "text": "Şahıs yazılımcı olacaksa, en iyi yazılımcı olmayı hedeflemelidir. Bu meslekte vasatlığa yer yok.", "author": "Özcan Acar" },
-    { "text": "Zeka sahibi olmanın diyeti bilgiyi paylaşmaktır.", "author": "Özcan Acar" },
-    { "text": "Bilginin yarı ömrûnü artırmak için paylaşarak çoğalmasını sağlamak gerekir.", "author": "Özcan Acar" },
-    { "text": "Hello world ile başlayan bir kariyer yönetici olduktan sonra, hüzünle son buluyor. Yazılım sektöründe mutsuz insan sayısı çok yüksek.", "author": "Özcan Acar" },
-    { "text": "Yazılımcının çalışma tarzını konuşarak değiştiremessin. Senin gibi güzel kod yazmaya imrendiğinde kendiliğinden değişecektir. #imrendir", "author": "Özcan Acar" },
-    { "text": "Bilgi paylaşma kültürüne sahip olmayan bir yazılımcının söyleyecek neyi olabilir? Konuşsa, nesi ciddiye alınır?", "author": "Özcan Acar" },
-    { "text": "Programcılar keşke armut gibi agaçta yetişebilse, ya da karpuz gibi tarlada.", "author": "Özcan Acar" },
-    { "text": "Bir programcı günde sekiz saat ve haftada beş gün çalışır, NOKTA!", "author": "Özcan Acar" },
-    { "text": "Üjbej vakitte usta yazılımcı olduğunu düşünenler var. 15 yıl dirsek çürütün, ondan sonra görüşelim.", "author": "Özcan Acar" },
-    { "text": "Programcılık kursları hikaye. Bu işi dizini kırıp, ustanın yanına oturarak, ondan öğreneceksin.", "author": "Özcan Acar" },
-    { "text": "On sene aynı şeyi yapmış olmak tecrübe olarak sayılmaz.", "author": "Özcan Acar" },
-    { "text": "Bilginin sahibi yok, ama vicdanın var. Bilgiyi paylaşın, vicdanınız rahatlasın.", "author": "Özcan Acar" },
-    { "text": "Öğrenileni hazmetmenin en güzel yolu ögrenileni başka birisine öğretmektir.", "author": "Özcan Acar" },
-    { "text": "Kaç yazılımcı kitaba bakmadan insertion ya da merge sort algoritmasını programlayabilir?", "author": "Özcan Acar" },
-    { "text": "Algoritmaları kapalı gözle programlayamayıp gerekirse kitaba bakarım demek böyük yanılgıdır.", "author": "Özcan Acar" },
-    {
-      "text": "Google’da bir tarayayım bakalım kalp amelıyatı nasıl yapılıyor diyen bir doktor gördünüz mü? Biz yazılımcılar neden her şeyi googlelıyoruz?",
-      "author": "Özcan Acar"
-    },
-    { "text": "Yazılımcılık hep aynı iş, verileri A’dan B’ye aktarıyoruz, özünde başka bir şey değil.", "author": "Özcan Acar" },
-    { "text": "Çevikliğin özü refactoring ve tdd", "author": "Özcan Acar" },
-    { "text": "Projenizin çabucak bitmesini istiyorsanız, usta yazılımcılara görev verin.", "author": "Özcan Acar" },
-    { "text": "Kimin usta yazılımcı olduğu yazdığı koddan anlaşılır. Roman gibi yazar, Fadime deyze bile okuyup, anlar.", "author": "Özcan Acar" },
-    { "text": "CRUD yapan ile roket uçuran yazılımcı arasındaki fark nedir? Hiç bir fark yok! Çalıştığın ortam neyse, sen o sun.", "author": "Özcan Acar" },
-    { "text": "Yazılımcı için boş bir editor tual, klavyesi fırça, hayal gücü paletindeki renklerdir.", "author": "Özcan Acar" },
-    {
-      "text": "Davinci gibi her yazılımcı kod yazmadan önce eserine ismini yazmalı. O zaman bilir ki altında imzası olan bir yapıtı baştan savma yapamaz.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Projeye illa kendi imzalarını atmaya çalışan yazılımcılar bu işin bir ekip işi olduğunu unutuyorlar. #bencilyazılımcı", "author": "Özcan Acar" },
-    { "text": "Bir yazılımcı ekibi ekip lideri olmadan belki işler ama her şeye hakim gayriresmi lideri/liderleri olmadan işlemez. #bilgeprogramcı", "author": "Özcan Acar" },
-    { "text": "Marifet ustadan öğrenebilmek için senior bile olunsa tüm bilgi, tecrübe ve egoyu bir kenara koyup, tekrar çırak olabilmektir.", "author": "Özcan Acar" },
-    { "text": "Yazılımcının ustadan öğrenmesini engelleyen en büyük düşmanı kendi egosudur.", "author": "Özcan Acar" },
-    {
-      "text": "İşin en trajikomedik tarafı her fırsatta agile kelimesini ağzından düşürmeyenlerin bir tanecik bile unit test yazmamaları. Altta db varmış!",
-      "author": "Özcan Acar"
-    },
-    {
-      "text": "Bazıları için kodun herkesin malı olduğu düşüncesi kendi kodları değişikliğe uğradığında anında geçerliliğini yitiriyor. #kodbabanınmalıdeğil",
-      "author": "Özcan Acar"
-    },
-    { "text": "Kapitalizmin rüyası gerçekleşmedi. Program yazmayı fabrikada üretim yapmaya dönüştüremediler. #codegeneretionhikaye", "author": "Özcan Acar" },
-    { "text": "Kod birimlerini tekrar kullanamamak (component reuse) gayri safi milli hasılayı aşağı çeker. #sorumluluklarımızıbilelim", "author": "Özcan Acar" },
-    {
-      "text": "Bir yazılımcının itibarını artıran en önemli şey nedir? Müşterisine çalışır bir sürüm sunması. Bunu devamlı yapabilen kazanır, elması kızarır.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Usta yazılımcı birim test koduna uvey evlat muamelesi yapmaz.", "author": "Özcan Acar" },
-    { "text": "Projede 50bin satırlık kod yazılmış ama birim testi yok. Bu proje nedir? Saatli bomba… tık…tık…tık…tık…dagau…", "author": "Özcan Acar" },
-    { "text": "Yazılımcının en iyi dostu Sonar. Dost (Sonar) acı söyler.", "author": "Özcan Acar" },
-    { "text": "Allahım beni baştan yarat ama ne olur tekrar yazılımcı olayım ;-)", "author": "Özcan Acar" },
-    { "text": "Gerçek ustada ego olmaz, hizmet aşkı olur.", "author": "Özcan Acar" },
-    { "text": "Yazılım projelerinin başarısı insan gücüne değil, ekip elemanlarının ustalık derecesine bağlıdır.", "author": "Özcan Acar" },
-    {
-      "text": "Yazılım ekibini siz kurmayın, usta bir yazılımcı kursun. Kimin işin ustası olduğunu en iyi o bilir. Laf olsun, torba dolsun diye eleman aramaz.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Yazılımcıyı tartma birimi nedir? İtibar. İtibarının kaynağı nedir? Başarıyla sürümlediği projeleri.", "author": "Özcan Acar" },
-    {
-      "text": "Bir yazılımcının itibarini artıran en önemli şey nedir? Müşterisine çalışır bir sürüm sunması. Bunu devamlı yapabilen kazanır,elması kızarır.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Usta ne diyorsa dikkatle takip edeceksin, bir kitabı tavsiye ediyorsa okuyacaksın. Paylaşım yapıyorsa bir bildiği vardır", "author": "Özcan Acar" },
-    { "text": "Öğrenim sahanız (learning zone) hareket etmiyorsa, kişisel gelişiminiz yerinde sayıyor demektir", "author": "Özcan Acar" },
-    { "text": "İyi kod yazmak anadil hakimiyeti ile doğrudan orantılıdır.", "author": "Özcan Acar" },
-    { "text": "Dao katmanı gereksiz. #activerecordkullanın", "author": "Özcan Acar" },
-    { "text": "Bir şahsın yazılımcı olmaktan mutlu olmadığını nasıl anlarsınız? Ya mimar ya da yönetici olmak ister.", "author": "Özcan Acar" },
-    { "text": "Mimarların çoğu yazılımcı değildir, yazılımcıların çoğu mimardır.", "author": "Özcan Acar" },
-    { "text": "Ne zaman iyi bir yazılımcı oluruz? Yazılımcılığın çok uzun bir yol olduğunu kabul edip, bu yola düştüğümüzde. Amaç yolun kendisi.", "author": "Özcan Acar" },
-    { "text": "Ebeveynin odak merkezi çocuğu, yazılımcının odak merkezi kişisel gelişimi…", "author": "Özcan Acar" },
-    { "text": "Bilgiye kedinin fareye baktığı gibi bakmak…", "author": "Özcan Acar" },
-    {
-      "text": "Yazılımcı bilgi ile balon gibi sişer, ayakları yerden kesilir. Önemli olan bilgiyi paylaşarak balonun havasını almak ve tekrar yere basabilmektir.",
-      "author": "Özcan Acar"
-    },
-    { "text": "Blog yazmanın önündeki en büyük engel mikroblog yazmaktır.", "author": "Özcan Acar" },
-    { "text": "Bilgiyi unutmak çok kolay. Beyne kazımak için devamlı pratik yapmak gerekiyor.", "author": "Özcan Acar" },
-    { "text": "Bir işin temelini anlamadan tepesini anlayamamak…", "author": "Özcan Acar" },
-    { "text": "Bir ipte iki cambaz, bir kod biriminde birden fazla sorumluluk olmaz.", "author": "Özcan Acar" },
-    { "text": "Birden fazla sorumluluğu olan bir sınıfa ne denir? Şizofrenik ve çok kişilikli sınıf.", "author": "Özcan Acar" },
-    { "text": "Keşke bazı programcıların kod yazarken düşüncelerini de kaydeden bir karakutu olsa. Program düşünce karakutuyu dinlerdik.", "author": "Özcan Acar" },
-    { "text": "Eğer bir metot bir sınıf değişkeni ya da bir sınıf metodunu kullanmıyorsa, bu metodun bu sınıfta ne işi var? #srp", "author": "Özcan Acar" },
-    { "text": "En zahmetsiz edinilen meslek? Yazılımcılık. En zor kavranan meslek? Yazılımcılık", "author": "Özcan Acar" },
-    { "text": "Yazılımcı olarak ne zaman emekli olurum? Öldüğümde!", "author": "Özcan Acar" },
-    { "text": "Yazdığın kodu bir süre sonra beğenmiyorsan, öğreniyorsun demektir.", "author": "Özcan Acar" },
-    { "text": "Teknoloji bir fikir değil, fikri elde etme yoludur. O yüzden teknolojiye aşırı hayranlık duymamalı, ondan korkmamalısınız.", "author": "John Hegarty" },
-    {
-      "text": "Teknoloji hiçbir şeydir. Asıl önemli olan insanların özünde iyi ve zeki olduklarına, onlara gerekli araçlar verildiği taktirde mükemmel işler başaracağına duyduğunuz inançtır.",
-      "author": "Elyssa Friedland"
-    },
-    { "text": "Ev bilgisayarları devrimi ile birlikte ortaya çıkan en iyi şey, insan mantığının sınırlı olduğunun anlaşılmasıdır.", "author": "Özcan Acar" },
+  "technology": [
     {
       "text": "Teknolojiyi tümüyle yermek, tuzdan arındırılmış deniz suyu ile yeşeren bahçeleri görmezlikten gelmek, onu gözü kapalı övmek ise Hiroşima’yı unutmak demektir.",
       "author": "Stuart Chase"
     },
-    { "text": "Bir bilgisayar kötü bir yöneticiyi iyi bir yöneticiye dönüştüremez. Kötü bir yöneticiyi hızlı, iyi bir yöneticiyi ise çok hızlı yapar.", "author": "Edward Esber" },
-    { "text": "Yazılımcı olarak ne zaman emekli olurum? Öldüğümde!", "author": "Özcan Acar" },
+    {
+      "text": "Bir bilgisayar kötü bir yöneticiyi iyi bir yöneticiye dönüştüremez. Kötü bir yöneticiyi hızlı, iyi bir yöneticiyi ise çok hızlı yapar.",
+      "author": "Edward Esber"
+    },
     {
       "text": "Yeni bir teknoloji bazen yıktıklarından daha fazlasını yaratır, yarattıklarından daha fazlasını yıkar. Ancak bu hiçbir zaman tek yönlü olmaz.",
       "author": "Neil Postman"
@@ -571,85 +20,229 @@
       "text": "Bizi birleştirmeyi vaat eden teknoloji bile bizi birbirimizden ayırıyor. Artık her birimiz tüm dünyayla elektronik bağlantı içindeyiz, ama aslında son derece yalnızız.",
       "author": "Dan Brown"
     },
-    { "text": "İnsanoğlu, hala tüm bilgisayarların en alışılmadık olanıdır.", "author": "John F. Kennedy" },
-    { "text": "Teknoloji sayesinde herkesin kapısı, kocaman bir pencereye dönüşebiliyor.", "author": "Daniel Palmer" },
-    { "text": "Mikrobilgisayar işinde olmak, uçurumun bir metre yakınında, saatte doksan kilometre hız yapmak gibidir.", "author": "George Morrow" },
-    { "text": "Bilgisayar devrimi dünya tarihinde yaşanan en sesli devrimdir, komik olan onun etkilerini hala küçümsememiz.", "author": "Herman Kahl" },
-    { "text": "Sadece teknoloji sayesinde kendinizi yaratmanızın ve ifade etmenizin kolaylaşması, bunu iyi yaptığınız anlamına gelmez.", "author": "John Hegarty" },
-    { "text": "İnsanın icat ettiği en verimli teknolojik makine kitaptır.", "author": "Northrop Frye" },
-    { "text": "eknolojimizin insanlığımızı aştığı aşikar bir hale geldi.", "author": "Albert Einstein" },
-    { "text": "Televizyon ve İnternet iyidir çünkü aptal insanları halkın içinde çok fazla zaman geçirmekten alıkoymaktadırlar.", "author": "Douglas Coupland" },
+    {
+      "text": "İnsanoğlu, hala tüm bilgisayarların en alışılmadık olanıdır.",
+      "author": "John F. Kennedy"
+    },
+    {
+      "text": "Teknoloji sayesinde herkesin kapısı, kocaman bir pencereye dönüşebiliyor.",
+      "author": "Daniel Palmer"
+    },
+    {
+      "text": "Mikrobilgisayar işinde olmak, uçurumun bir metre yakınında, saatte doksan kilometre hız yapmak gibidir.",
+      "author": "George Morrow"
+    },
+    {
+      "text": "Bilgisayar devrimi dünya tarihinde yaşanan en sesli devrimdir, komik olan onun etkilerini hala küçümsememiz.",
+      "author": "Herman Kahl"
+    },
+    {
+      "text": "Sadece teknoloji sayesinde kendinizi yaratmanızın ve ifade etmenizin kolaylaşması, bunu iyi yaptığınız anlamına gelmez.",
+      "author": "John Hegarty"
+    },
+    {
+      "text": "İnsanın icat ettiği en verimli teknolojik makine kitaptır.",
+      "author": "Northrop Frye"
+    },
+    {
+      "text": "eknolojimizin insanlığımızı aştığı aşikar bir hale geldi.",
+      "author": "Albert Einstein"
+    },
+    {
+      "text": "Televizyon ve İnternet iyidir çünkü aptal insanları halkın içinde çok fazla zaman geçirmekten alıkoymaktadırlar.",
+      "author": "Douglas Coupland"
+    },
     { "text": "Bugünün bilimi yarının teknolojisidir.", "author": "Edward Teller" },
-    { "text": "Bir makine elli sıradan erkeğin işini yapabilir. Ancak hiçbir makine olağanüstü bir adamın işini yapamaz.", "author": "Elbert Hubbard" },
-    { "text": "Teknoloji, henüz çalışmayan bir şeyi açıklayan bir kelimedir.", "author": "Douglas Adams" },
-    { "text": "Teknoloji sadece bir araçtır. Çocukların bir arada çalışmasını sağlamak ve onları motive etmek açısından en önemlisi öğretmendir.", "author": "Bill Gates" },
-    { "text": "Tüm bu modern teknoloji, insanları bir anda her şeyi yapmaya yönlendiriyor.", "author": "Bill Watterson" },
-    { "text": "İstediğimiz şeyin, sadece işe yarayan şey olması durumunda teknolojiye sıkışıp kalırız.", "author": "Douglas Adams" },
-    { "text": "İnsanlık, yanlış nedenlerle, doğru teknolojiyi ediniyor.", "author": "R. Buckminster Fuller" },
-    { "text": "Teknolojik ilerleme, bize geriye doğru gitmek için sadece daha verimli araçlar sağlamıştır.", "author": "Aldous Huxley" },
+    {
+      "text": "Bir makine elli sıradan erkeğin işini yapabilir. Ancak hiçbir makine olağanüstü bir adamın işini yapamaz.",
+      "author": "Elbert Hubbard"
+    },
+    {
+      "text": "Teknoloji, henüz çalışmayan bir şeyi açıklayan bir kelimedir.",
+      "author": "Douglas Adams"
+    },
+    {
+      "text": "Teknoloji sadece bir araçtır. Çocukların bir arada çalışmasını sağlamak ve onları motive etmek açısından en önemlisi öğretmendir.",
+      "author": "Bill Gates"
+    },
+    {
+      "text": "Tüm bu modern teknoloji, insanları bir anda her şeyi yapmaya yönlendiriyor.",
+      "author": "Bill Watterson"
+    },
+    {
+      "text": "İstediğimiz şeyin, sadece işe yarayan şey olması durumunda teknolojiye sıkışıp kalırız.",
+      "author": "Douglas Adams"
+    },
+    {
+      "text": "İnsanlık, yanlış nedenlerle, doğru teknolojiyi ediniyor.",
+      "author": "R. Buckminster Fuller"
+    },
+    {
+      "text": "Teknolojik ilerleme, bize geriye doğru gitmek için sadece daha verimli araçlar sağlamıştır.",
+      "author": "Aldous Huxley"
+    },
     { "text": "İnsan ruhu teknolojiye hakim olmalı.", "author": "Albert Einstein" },
-    { "text": "Zamanımızın büyük efsanesi, teknolojinin iletişim olmasıdır.", "author": "Libby Larsen" },
-    { "text": "Teknoloji nüfus artışını mümkün kıldı; Nüfus artışı da artık teknolojiyi vazgeçilmez kılmaktadır.", "author": "Joseph Wood Krutch" },
-    { "text": "Bilim ve teknoloji hayatlarımızda devrim yaratıyor, ancak hafıza, gelenek ve mit cevaplarımızı yansıtıyor.", "author": "Arthur M. Schlesinger" },
-    { "text": "Bilgisayarlar işe yaramaz. Sadece size cevap verebilirler.", "author": "Pablo Picasso" },
-    { "text": "Teknoloji bir yandan ölümsüzlük için iştahı kabartır, öte yandan evrensel yok oluş tehditi taşır. Teknoloji doğadan uzaklaştırılmıştır.", "author": "Don DeLillo" },
-    { "text": "İnsanlığın en büyük başarısı sanat, bilim ya da teknolojinin eserleri değil, kendi işlev bozukluğunun tanınmasıdır.", "author": "Eckhart Tolle" },
+    {
+      "text": "Zamanımızın büyük efsanesi, teknolojinin iletişim olmasıdır.",
+      "author": "Libby Larsen"
+    },
+    {
+      "text": "Teknoloji nüfus artışını mümkün kıldı; Nüfus artışı da artık teknolojiyi vazgeçilmez kılmaktadır.",
+      "author": "Joseph Wood Krutch"
+    },
+    {
+      "text": "Bilim ve teknoloji hayatlarımızda devrim yaratıyor, ancak hafıza, gelenek ve mit cevaplarımızı yansıtıyor.",
+      "author": "Arthur M. Schlesinger"
+    },
+    {
+      "text": "Bilgisayarlar işe yaramaz. Sadece size cevap verebilirler.",
+      "author": "Pablo Picasso"
+    },
+    {
+      "text": "Teknoloji bir yandan ölümsüzlük için iştahı kabartır, öte yandan evrensel yok oluş tehditi taşır. Teknoloji doğadan uzaklaştırılmıştır.",
+      "author": "Don DeLillo"
+    },
+    {
+      "text": "İnsanlığın en büyük başarısı sanat, bilim ya da teknolojinin eserleri değil, kendi işlev bozukluğunun tanınmasıdır.",
+      "author": "Eckhart Tolle"
+    },
     {
       "text": "Önce bilgisayarın bir hesap makinesi olduğunu düşündük. Sonra sayıları ASCII ile harflere nasıl çevireceğimizi öğrendik – ve bunun bir daktilo olduğunu düşündük. Sonra grafikleri keşfettik ve bir televizyon olduğunu düşündük. World Wide Web ile, bunun bir broşür olduğunu anladık.",
       "author": "Douglas Adams"
     },
-    { "text": "İletişim araçları, teknolojik olarak sıkıcı hale gelene kadar sosyal olarak ilginç olmazlar.", "author": "Klay Shirky" },
+    {
+      "text": "İletişim araçları, teknolojik olarak sıkıcı hale gelene kadar sosyal olarak ilginç olmazlar.",
+      "author": "Klay Shirky"
+    },
     { "text": "Yeterince ileri teknoloji, sihire eşdeğerdir.", "author": "Sir Arthur C. Clarke" },
     { "text": "Etik, teknolojiyle yer değiştiriyor.", "author": "Narry Niven" },
     { "text": "Çok fazla teknoloji, çok az yetenek.", "author": "Vernor Vinge" },
-    { "text": "Teknolojinin yaşam kalitesini iyileştirmedeki tüm yollarının bir listesi için lütfen üçe basın.", "author": "Alice Kahnesi" },
+    {
+      "text": "Teknolojinin yaşam kalitesini iyileştirmedeki tüm yollarının bir listesi için lütfen üçe basın.",
+      "author": "Alice Kahnesi"
+    },
     {
       "text": "Bir teknoloji olarak kitap, bir çekiç gibidir. Yani, mükemmeldir: görevine ideal olarak uygun bir araç. Çekiçler düzeltilebilir ve değiştirilebilir ancak asla eskimez. İnşaatçıların binlerce pnömatik çivi tabancasıyla çivileri çektikleri zamanda bile, her evin bir çekice ihtiyacı vardır.",
       "author": "James Gleick"
     },
-    { "text": "Teknoloji, hikayelerimizi anlattığımız kamp ateşidir.", "author": "Laurie Anderson" },
-    { "text": "Asıl tehlike, bilgisayarların erkek gibi düşünmeye başlaması değil, erkeklerin bilgisayar gibi düşünmeye başlamasıdır.", "author": "Sydney J. Harris" },
-    { "text": "Yeni bir teknoloji sizin yerinize geçtiğinde, buharlı karıştırıcının bir parçası değilseniz, yolun bir parçasısınız.", "author": "Stewart Markası" },
+    {
+      "text": "Teknoloji, hikayelerimizi anlattığımız kamp ateşidir.",
+      "author": "Laurie Anderson"
+    },
+    {
+      "text": "Asıl tehlike, bilgisayarların erkek gibi düşünmeye başlaması değil, erkeklerin bilgisayar gibi düşünmeye başlamasıdır.",
+      "author": "Sydney J. Harris"
+    },
+    {
+      "text": "Yeni bir teknoloji sizin yerinize geçtiğinde, buharlı karıştırıcının bir parçası değilseniz, yolun bir parçasısınız.",
+      "author": "Stewart Markası"
+    },
     { "text": "Donanım: Bir bilgisayarın tekmelenen bölümleridir.", "author": "Jeff Pesis" },
-    { "text": "Asıl sorun, makinelerin düşünüp düşünmediği değil, erkeklerin düşünüp düşünmediğidir.", "author": "B.F. Skinner" },
-    { "text": "Biyoloji şimdiye kadar yaratılmış en güçlü teknolojidir. DNA yazılımdır, protein donanımdır, hücreler fabrikalardır", "author": "Arvind Gupta" },
-    { "text": "Teknoloji, işleri yapmanın tek bir doğru yolu olduğunu varsayar ve asla öyle değildir.", "author": "Robert M. Pirsig" },
-    { "text": "İnternetten bilgi almak, yangın musluğundan bir içecek almak gibidir.", "author": "Mitchell Kapor" },
-    { "text": "Teknolojimizi bilgelikten uzak, ihtiyatsızsa geliştirmeye devam edersek, hizmetkarımız bizim cellatımız olabilir.", "author": "Omar N. Bradley" },
-    { "text": "Bilgisayarlar bikiniler gibidir. İnsanları tahminde bulunma zahmetinden kurtarırlar.", "author": "Sam Ewing" },
-    { "text": "Sanat, teknolojiye meydan okuyor ve teknoloji, sanata ilham veriyor.", "author": "John Lasseter" },
-    { "text": "Tüm teknolojimiz, mutlu bir yaşam için tamamen gereksizdir.", "author": "Tom Hodgkinson" },
-    { "text": "Teknoloji yararlı bir hizmetçi ama tehlikeli bir ustadır.", "author": "Christian Lous Lange" },
-    { "text": "Bilim ve teknoloji hayatımızı değiştirir, ancak hafıza, gelenek ve efsane bizim cevabımızı çerçeveler.", "author": "Arthur M. Schlesinger" },
+    {
+      "text": "Asıl sorun, makinelerin düşünüp düşünmediği değil, erkeklerin düşünüp düşünmediğidir.",
+      "author": "B.F. Skinner"
+    },
+    {
+      "text": "Biyoloji şimdiye kadar yaratılmış en güçlü teknolojidir. DNA yazılımdır, protein donanımdır, hücreler fabrikalardır",
+      "author": "Arvind Gupta"
+    },
+    {
+      "text": "Teknoloji, işleri yapmanın tek bir doğru yolu olduğunu varsayar ve asla öyle değildir.",
+      "author": "Robert M. Pirsig"
+    },
+    {
+      "text": "İnternetten bilgi almak, yangın musluğundan bir içecek almak gibidir.",
+      "author": "Mitchell Kapor"
+    },
+    {
+      "text": "Teknolojimizi bilgelikten uzak, ihtiyatsızsa geliştirmeye devam edersek, hizmetkarımız bizim cellatımız olabilir.",
+      "author": "Omar N. Bradley"
+    },
+    {
+      "text": "Bilgisayarlar bikiniler gibidir. İnsanları tahminde bulunma zahmetinden kurtarırlar.",
+      "author": "Sam Ewing"
+    },
+    {
+      "text": "Sanat, teknolojiye meydan okuyor ve teknoloji, sanata ilham veriyor.",
+      "author": "John Lasseter"
+    },
+    {
+      "text": "Tüm teknolojimiz, mutlu bir yaşam için tamamen gereksizdir.",
+      "author": "Tom Hodgkinson"
+    },
+    {
+      "text": "Teknoloji yararlı bir hizmetçi ama tehlikeli bir ustadır.",
+      "author": "Christian Lous Lange"
+    },
+    {
+      "text": "Bilim ve teknoloji hayatımızı değiştirir, ancak hafıza, gelenek ve efsane bizim cevabımızı çerçeveler.",
+      "author": "Arthur M. Schlesinger"
+    },
     {
       "text": "Teknoloji hiçbir şeydir. Önemli olan, insanların bir inanca sahip olması, temel olarak iyi ve akıllı olmaları ve onlara verdiğiniz araçlarla harika şeyler yapmalarıdır.",
       "author": "Steve Jobs"
     },
-    { "text": "Teknolojiyi çok sevdim: eğer doğru kullanırsanız, size güç ve mahremiyet verebilir.", "author": "Cory Doctorow" },
+    {
+      "text": "Teknolojiyi çok sevdim: eğer doğru kullanırsanız, size güç ve mahremiyet verebilir.",
+      "author": "Cory Doctorow"
+    },
     {
       "text": "Teknolojik olarak nasıl ilerlediğimizden bağımsız olarak, lütfen kitabı terk etmeyin. Maddi dünyada hiçbir şey kitaptan daha güzel değildir.",
       "author": "Patti Smith"
     },
     { "text": "Teknoloji bize tekrar insan olmayı öğretiyor.", "author": "Simon Mainwaring" },
-    { "text": "Teknoloji hem insanlığın dostu hem de düşmanıdır. Gün gelecek en yakın dostumuz teknoloji yüzünden insanlık yok olacak.", "author": "Cemal SAĞLAM" },
+    {
+      "text": "Teknoloji hem insanlığın dostu hem de düşmanıdır. Gün gelecek en yakın dostumuz teknoloji yüzünden insanlık yok olacak.",
+      "author": "Cemal SAĞLAM"
+    },
     {
       "text": "Teknoloji hiçbir şeydir. Asıl önemli olan insanların özünde iyi ve zeki olduklarına, onlara gerekli araçlar verildiği taktirde mükemmel işler başaracağına duyduğunuz inançtır.",
       "author": "Elyssa Friedland"
     },
-    { "text": "Ev bilgisayarları devrimi ile birlikte ortaya çıkan en iyi şey, insan mantığının sınırlı olduğunun anlaşılmasıdır.", "author": "Frank Herbert" },
+    {
+      "text": "Ev bilgisayarları devrimi ile birlikte ortaya çıkan en iyi şey, insan mantığının sınırlı olduğunun anlaşılmasıdır.",
+      "author": "Frank Herbert"
+    },
     {
       "text": "Bilgi toplumunda insan her zamankinden daha hızlı,teknolojiyle birçok şeyi elde edebiliyor fakat tarım toplumundaki huzuru ve dengeyi sunamıyor.",
       "author": "Nevzat Tarhan"
     },
-    { "text": "İnsanoğlu, hala tüm bilgisayarların en alışılmadık olanıdır.", "author": "John F. Kennedy" },
-    { "text": "Teknoloji sayesinde herkesin kapısı, kocaman bir pencereye dönüşebiliyor.", "author": "Daniel Palmer" },
-    { "text": "Mikrobilgisayar işinde olmak, uçurumun bir metre yakınında, saatte doksan kilometre hız yapmak gibidir.", "author": "George Morrow" },
-    { "text": "Teknoloji bir fikir değil, fikri elde etme yoludur. O yüzden teknolojiye aşırı hayranlık duymamalı, ondan korkmamalısınız.", "author": "John Hegarty" },
-    { "text": "Bilgisayar devrimi dünya tarihinde yaşanan en sesli devrimdir, komik olan onun etkilerini hala küçümsememiz.", "author": "Herman Kahl" },
-    { "text": "Sadece teknoloji sayesinde kendinizi yaratmanızın ve ifade etmenizin kolaylaşması, bunu iyi yaptığınız anlamına gelmez.", "author": "John Hegarty" },
-    { "text": "Korkarım ki bir gün teknoloji, insan etkileşiminin önüne geçecek ve aptal bir nesil ortaya çıkacak.", "author": "Albert Einstein" },
-    { "text": "Bir sonraki patlama genetik ve bilgisayarın birleştirildiği gün olacak, organik bir bilgisayardan bahsediyorum.", "author": "AlvinToffler" },
-    { "text": "Tabiat son sözü söylemeye karar verdiğinde, teknoloji sükut eder.", "author": "Nazan Bekiroğlu" },
+    {
+      "text": "İnsanoğlu, hala tüm bilgisayarların en alışılmadık olanıdır.",
+      "author": "John F. Kennedy"
+    },
+    {
+      "text": "Teknoloji sayesinde herkesin kapısı, kocaman bir pencereye dönüşebiliyor.",
+      "author": "Daniel Palmer"
+    },
+    {
+      "text": "Mikrobilgisayar işinde olmak, uçurumun bir metre yakınında, saatte doksan kilometre hız yapmak gibidir.",
+      "author": "George Morrow"
+    },
+    {
+      "text": "Teknoloji bir fikir değil, fikri elde etme yoludur. O yüzden teknolojiye aşırı hayranlık duymamalı, ondan korkmamalısınız.",
+      "author": "John Hegarty"
+    },
+    {
+      "text": "Bilgisayar devrimi dünya tarihinde yaşanan en sesli devrimdir, komik olan onun etkilerini hala küçümsememiz.",
+      "author": "Herman Kahl"
+    },
+    {
+      "text": "Sadece teknoloji sayesinde kendinizi yaratmanızın ve ifade etmenizin kolaylaşması, bunu iyi yaptığınız anlamına gelmez.",
+      "author": "John Hegarty"
+    },
+    {
+      "text": "Korkarım ki bir gün teknoloji, insan etkileşiminin önüne geçecek ve aptal bir nesil ortaya çıkacak.",
+      "author": "Albert Einstein"
+    },
+    {
+      "text": "Bir sonraki patlama genetik ve bilgisayarın birleştirildiği gün olacak, organik bir bilgisayardan bahsediyorum.",
+      "author": "AlvinToffler"
+    },
+    {
+      "text": "Tabiat son sözü söylemeye karar verdiğinde, teknoloji sükut eder.",
+      "author": "Nazan Bekiroğlu"
+    },
     {
       "text": "Teknolojiyi tümüyle yermek, tuzdan arındırılmış deniz suyu ile yeşeren bahçeleri görmezlikten gelmek, onu gözü kapalı övmek ise Hiroşima’yı unutmak demektir.",
       "author": "Stuart Chase"
@@ -658,24 +251,51 @@
       "text": "Yeni bir teknoloji bazen yıktıklarından daha fazlasını yaratır, yarattıklarından daha fazlasını yıkar. Ancak bu hiçbir zaman tek yönlü olmaz.",
       "author": "Neil Postman"
     },
-    { "text": "İnternet; sınırların, engellerin, bayrakların ve ülkelerin bulunmadığı, taşıdığınız tek pasaport olduğu bir dünyaya giden yol olmalı.", "author": "Carlos Santana" },
-    { "text": "Artık insanlık degil, teknoloji ilerliyordu. Uygarlıklar değil, teknolojiler gelişiyordu.", "author": "Azra Kohen" },
-    { "text": "Kişisel bir bilgisayar, zekamızın bir parçası olarak bize destek olan araçtır.", "author": "Steve Jobs" },
-    { "text": "Bir bilgisayar kötü bir yöneticiyi iyi bir yöneticiye dönüştüremez. Kötü bir yöneticiyi hızlı, iyi bir yöneticiyi ise çok hızlı yapar.", "author": "Edward Esber" },
-    { "text": "Yaratıcı bir işadamına bilgisayarlarla ilgili bir şey öğretmek, bir programcıya iş hayatını öğretmekten çok daha kolaydır.", "author": "Peter Lawson" },
-    { "text": "Teknoloji bir fikir değil, fikri elde etme yoludur. O yüzden teknolojiye aşırı hayranlık duymamalı, ondan korkmamalısınız.", "author": "John Hegarty" },
+    {
+      "text": "İnternet; sınırların, engellerin, bayrakların ve ülkelerin bulunmadığı, taşıdığınız tek pasaport olduğu bir dünyaya giden yol olmalı.",
+      "author": "Carlos Santana"
+    },
+    {
+      "text": "Artık insanlık degil, teknoloji ilerliyordu. Uygarlıklar değil, teknolojiler gelişiyordu.",
+      "author": "Azra Kohen"
+    },
+    {
+      "text": "Kişisel bir bilgisayar, zekamızın bir parçası olarak bize destek olan araçtır.",
+      "author": "Steve Jobs"
+    },
+    {
+      "text": "Bir bilgisayar kötü bir yöneticiyi iyi bir yöneticiye dönüştüremez. Kötü bir yöneticiyi hızlı, iyi bir yöneticiyi ise çok hızlı yapar.",
+      "author": "Edward Esber"
+    },
+    {
+      "text": "Yaratıcı bir işadamına bilgisayarlarla ilgili bir şey öğretmek, bir programcıya iş hayatını öğretmekten çok daha kolaydır.",
+      "author": "Peter Lawson"
+    },
+    {
+      "text": "Teknoloji bir fikir değil, fikri elde etme yoludur. O yüzden teknolojiye aşırı hayranlık duymamalı, ondan korkmamalısınız.",
+      "author": "John Hegarty"
+    },
     {
       "text": "Teknoloji hiçbir şeydir. Asıl önemli olan insanların özünde iyi ve zeki olduklarına, onlara gerekli araçlar verildiği taktirde mükemmel işler başaracağına duyduğunuz inançtır.",
       "author": "Elyssa Friedland"
     },
-    { "text": "Ev bilgisayarları devrimi ile birlikte ortaya çıkan en iyi şey, insan mantığının sınırlı olduğunun anlaşılmasıdır.", "author": "Frank Herbert" },
+    {
+      "text": "Ev bilgisayarları devrimi ile birlikte ortaya çıkan en iyi şey, insan mantığının sınırlı olduğunun anlaşılmasıdır.",
+      "author": "Frank Herbert"
+    },
     {
       "text": "Teknolojiyi tümüyle yermek, tuzdan arındırılmış deniz suyu ile yeşeren bahçeleri görmezlikten gelmek, onu gözü kapalı övmek ise Hiroşima’yı unutmak demektir.",
       "author": "Stuart Chase"
     },
-    { "text": "Bir bilgisayar kötü bir yöneticiyi iyi bir yöneticiye dönüştüremez. Kötü bir yöneticiyi hızlı, iyi bir yöneticiyi ise çok hızlı yapar.", "author": "Edward Esber" },
+    {
+      "text": "Bir bilgisayar kötü bir yöneticiyi iyi bir yöneticiye dönüştüremez. Kötü bir yöneticiyi hızlı, iyi bir yöneticiyi ise çok hızlı yapar.",
+      "author": "Edward Esber"
+    },
     { "text": "Teknoloji evcilleştirilmemiş bir köpek gibidir.", "author": "John Shirley" },
-    { "text": "", "author": "Her gün bir parçamızı daha tüketen teknoloji çağında sevgiye en son ne zaman yürekten bir merhaba demiştik, hatırlayanınız var mı?İskender Pala" },
+    {
+      "text": "",
+      "author": "Her gün bir parçamızı daha tüketen teknoloji çağında sevgiye en son ne zaman yürekten bir merhaba demiştik, hatırlayanınız var mı?İskender Pala"
+    },
     {
       "text": "Yeni bir teknoloji bazen yıktıklarından daha fazlasını yaratır, yarattıklarından daha fazlasını yıkar. Ancak bu hiçbir zaman tek yönlü olmaz.",
       "author": "Neil Postman"
@@ -688,18 +308,54 @@
       "text": "Bizi birleştirmeyi vaat eden teknoloji bile bizi birbirimizden ayırıyor. Artık her birimiz tüm dünyayla elektronik bağlantı içindeyiz, ama aslında son derece yalnızız.",
       "author": "Dan Brown"
     },
-    { "text": "İnsanoğlu, hala tüm bilgisayarların en alışılmadık olanıdır.John F.", "author": " Kennedy" },
-    { "text": "Teknoloji sayesinde herkesin kapısı, kocaman bir pencereye dönüşebiliyor.", "author": "Daniel Palmer" },
-    { "text": "Mikrobilgisayar işinde olmak, uçurumun bir metre yakınında, saatte doksan kilometre hız yapmak gibidir.", "author": "George Morrow" },
-    { "text": "Bilgisayar devrimi dünya tarihinde yaşanan en sesli devrimdir, komik olan onun etkilerini hala küçümsememiz.", "author": "Herman Kahl" },
-    { "text": "Sadece teknoloji sayesinde kendinizi yaratmanızın ve ifade etmenizin kolaylaşması, bunu iyi yaptığınız anlamına gelmez.", "author": "John Hegarty" },
-    { "text": "Olamaz! İnsanlar kendi kendilerinin aleti oldular.", "author": "Henry David Thoreau" },
-    { "text": "Korkarım ki bir gün teknoloji, insan etkileşiminin önüne geçecek ve aptal bir nesil ortaya çıkacak.", "author": "Albert Einstein" },
-    { "text": "Bir sonraki patlama genetik ve bilgisayarın birleştirildiği gün olacak, organik bir bilgisayardan bahsediyorum.", "author": "AlvinToffler" },
-    { "text": "Tabiat son sözü söylemeye karar verdiğinde, teknoloji sükut eder.", "author": "Nazan Bekiroğlu" },
-    { "text": "İnternet; sınırların, engellerin, bayrakların ve ülkelerin bulunmadığı, taşıdığınız tek pasaport olduğu bir dünyaya giden yol olmalı.", "author": "Carlos Santana" },
-    { "text": "Artık insanlık değil, teknoloji ilerliyordu. Uygarlıklar değil, teknolojiler gelişiyordu.", "author": "Azra Kohen" },
-    { "text": "Kişisel bir bilgisayar, zekamızın bir parçası olarak bize destek olan araçtır.", "author": "Steve Jobs" },
+    {
+      "text": "İnsanoğlu, hala tüm bilgisayarların en alışılmadık olanıdır.John F.",
+      "author": " Kennedy"
+    },
+    {
+      "text": "Teknoloji sayesinde herkesin kapısı, kocaman bir pencereye dönüşebiliyor.",
+      "author": "Daniel Palmer"
+    },
+    {
+      "text": "Mikrobilgisayar işinde olmak, uçurumun bir metre yakınında, saatte doksan kilometre hız yapmak gibidir.",
+      "author": "George Morrow"
+    },
+    {
+      "text": "Bilgisayar devrimi dünya tarihinde yaşanan en sesli devrimdir, komik olan onun etkilerini hala küçümsememiz.",
+      "author": "Herman Kahl"
+    },
+    {
+      "text": "Sadece teknoloji sayesinde kendinizi yaratmanızın ve ifade etmenizin kolaylaşması, bunu iyi yaptığınız anlamına gelmez.",
+      "author": "John Hegarty"
+    },
+    {
+      "text": "Olamaz! İnsanlar kendi kendilerinin aleti oldular.",
+      "author": "Henry David Thoreau"
+    },
+    {
+      "text": "Korkarım ki bir gün teknoloji, insan etkileşiminin önüne geçecek ve aptal bir nesil ortaya çıkacak.",
+      "author": "Albert Einstein"
+    },
+    {
+      "text": "Bir sonraki patlama genetik ve bilgisayarın birleştirildiği gün olacak, organik bir bilgisayardan bahsediyorum.",
+      "author": "AlvinToffler"
+    },
+    {
+      "text": "Tabiat son sözü söylemeye karar verdiğinde, teknoloji sükut eder.",
+      "author": "Nazan Bekiroğlu"
+    },
+    {
+      "text": "İnternet; sınırların, engellerin, bayrakların ve ülkelerin bulunmadığı, taşıdığınız tek pasaport olduğu bir dünyaya giden yol olmalı.",
+      "author": "Carlos Santana"
+    },
+    {
+      "text": "Artık insanlık değil, teknoloji ilerliyordu. Uygarlıklar değil, teknolojiler gelişiyordu.",
+      "author": "Azra Kohen"
+    },
+    {
+      "text": "Kişisel bir bilgisayar, zekamızın bir parçası olarak bize destek olan araçtır.",
+      "author": "Steve Jobs"
+    },
     {
       "text": "Yaşamın, teknolojinin, bilimin vesaire belirlediği düzen ve akış yerine; doğanın ve kendi belirlediğin akışı ve düzeni belirle. O zaman yaşamdan zevk alacaksın, dene de gör.",
       "author": "Tom Robbins"
@@ -708,7 +364,10 @@
       "text": "Teknoloji, insanların davranışını, ahlakını, sosyoekonomik ilişkilerini asla geri dönülmeyecek bir biçimde değiştiriyor. Söz konusu değişim, insanlığın amacından sapmasına ve doğadışı, adsız bir türün yeşermesine neden oluyor.",
       "author": "Hakan Günday"
     },
-    { "text": "Yaratıcı bir işadamına bilgisayarlarla ilgili bir şey öğretmek, bir programcıya iş hayatını öğretmekten çok daha kolaydır.", "author": "Peter Lawson" },
+    {
+      "text": "Yaratıcı bir işadamına bilgisayarlarla ilgili bir şey öğretmek, bir programcıya iş hayatını öğretmekten çok daha kolaydır.",
+      "author": "Peter Lawson"
+    },
     {
       "text": "Teknoloji geliştikçe, suçluluk olgusu da artıyor. İnsanın yararına olması gereken tüm bu gelişmeler, onu yalnızlığa ve mutsuzluğa götürürken, çocuklar da bundan hiç hak etmedikleri ölçüde paylarını alıyorlar.",
       "author": "Haluk Yavuzer"
@@ -717,12 +376,18 @@
       "text": "İnsanlığın trajedisi, onu güçlü kıldığını sandığı vasıtaların aynı zamanda onun kuyusunu kazması, onun güçsüzlüğünün sebebi de olmasıdır.",
       "author": "Kemal Sayar"
     },
-    { "text": "Teknoloji kola takıldığı anda çalışan saatleri icat etse de, sahici hayat hâlâ kurmalı saatlerde akıyor.", "author": "Tarık Tufan" },
+    {
+      "text": "Teknoloji kola takıldığı anda çalışan saatleri icat etse de, sahici hayat hâlâ kurmalı saatlerde akıyor.",
+      "author": "Tarık Tufan"
+    },
     {
       "text": "Teknoloji devleri insan bedeni fikriyle barışınca şimdi gözlerimizi, parmaklarımızı ve kredi kartlarımızı yönlendirdikleri gibi tüm bedenlerimizi yönlendirmeye başlayabilir.",
       "author": "Yuval Noah Harari"
     },
-    { "text": "Teknoloji insanı sanal bir gerçekliğin içine çektikçe, onu gerçekten çevresinde olup bitenlere karşı duyarsızlaştırıyor.", "author": "Daniel Goleman" },
+    {
+      "text": "Teknoloji insanı sanal bir gerçekliğin içine çektikçe, onu gerçekten çevresinde olup bitenlere karşı duyarsızlaştırıyor.",
+      "author": "Daniel Goleman"
+    },
     {
       "text": "Teknoloji, içinde barındırdığı toplumsal düzenin köklü değerini kapsayan, bir sistem olarak görülmelidir. Bu asla basitçe bir “aletler” ve ya cihazlar meselesi değildir.",
       "author": "John Zerzan"
@@ -739,7 +404,10 @@
       "text": "Uygar toplumun en önemli görevlerinden biri gelenek ve töreleri, gelişen bilim ve teknoloji ışığında zaman zaman eleştirel bir süzgeçten geçirerek zamanın gerçekleriyle çelişenlerini ortadan kaldırmaktır.",
       "author": "Celal Şengör"
     },
-    { "text": "Bu çağın adını “teknoloji” koymuşlar, göbek adı da “yalnızlık” olsun.A.", "author": " Ali Ural" },
+    {
+      "text": "Bu çağın adını “teknoloji” koymuşlar, göbek adı da “yalnızlık” olsun.A.",
+      "author": " Ali Ural"
+    },
     {
       "text": "Teknolojinin nihilizmi sadece iradeden doğan gücün en mükemmel ifadesi olmasında değil, aynı zamanda anlamdan yoksun olduğu gerçeğinde yatar: ‘Neden’ ve ‘Hangi amaçla?’ sorularını teknoloji kendisine sormaz.",
       "author": "Gerd Leonhard"
@@ -748,12 +416,18 @@
       "text": "Teknoloji eski ekonomik sorunları çözerken bize yeni psikolojik sorunlar yarattı. İnternet sadece açık bir enformasyon kaynağı değildir, aynı zamanda açık bir güvensizlik, kendinden kuşku duyma ve utanç kaynağıdır.",
       "author": "Mark Manson"
     },
-    { "text": "Teknoloji toplumsal dayanışmayı yok ediyor, bireyleri birbirinden yalıtarak küçük adacıklara dönüştürüyor.", "author": "Kemal Sayar" },
+    {
+      "text": "Teknoloji toplumsal dayanışmayı yok ediyor, bireyleri birbirinden yalıtarak küçük adacıklara dönüştürüyor.",
+      "author": "Kemal Sayar"
+    },
     {
       "text": "Teknoloji, insan hayatına giren karmaşık bir maddî güç olarak insanın zihnî yeteneği ile mutabakat halinde değil. İnsanın zihnî özellikleriyle teknik ayrı yönlerde yol alıyorlar.",
       "author": "İsmet Özel"
     },
-    { "text": "Teknoloji size zaman kazandıracak, artık daha çok boş vaktiniz olacak dediler ama biz kalan zamanı yine teknolojinin getirdikleriyle dolduruyoruz.", "author": "" },
+    {
+      "text": "Teknoloji size zaman kazandıracak, artık daha çok boş vaktiniz olacak dediler ama biz kalan zamanı yine teknolojinin getirdikleriyle dolduruyoruz.",
+      "author": ""
+    },
     {
       "text": "Hangi eğitim sistemi içinde olursa olsun, teknoloji ne kadar gelişirse gelişsin öğretmenin öğrenciyle göz göze geldiği bir an vardır. Öğretmenin öğrenciyle göz göze geldiği bu anın çok önemli bir potansiyel gücü vardır.",
       "author": "Doğan Cüceloğlu"
@@ -761,6 +435,98 @@
     {
       "text": "Teknoloji gelişince iki şey oldu: Öncelikle, çakmak taşından yapılma bıçaklar aşama aşama nükleer füzelere evrilirken, toplumsal düzeni istikrarsızlaştırmak daha tehlikeli hale geldi. İkincisi, mağara resimleri aşama aşama televizyon yayınlarına evrilirken, insanların gözünü boyamak giderek daha kolaylaştı.",
       "author": "Yuval Noah Harari"
+    },
+    {
+      "text": "Ne yazık ki insanlığımız, teknolojinin gerisinde kaldı.",
+      "author": "Albert Einstein"
+    }
+  ],
+  "inspiration": [
+    {
+      "text": "Aydınlık şaşkınlığın kızıdır. Şaşmak büyün filozofinin temelidir",
+      "author": "Montaigne"
+    },
+    {
+      "text": "On yaşında bilginler gibi konuşacaklarına altmış yaşında öğrenci gibi kalsınlar",
+      "author": "Montaigne"
+    },
+    {
+      "text": "Gideceği limanı bilmeyene hiçbir rüzgardan hayır gelmez.",
+      "author": "Montaigne"
+    },
+    {
+      "text": "Ezber bilmek, bilmek değildir; hafızamıza emanet edilen her şeyi saklamaktır.",
+      "author": "Montaigne"
+    },
+    {
+      "text": "Eğer sizden sokakları süpürmeniz istenirse, Michelangelo’nun resim yaptığı, Beethoven’in beste yaptığı veya Shakespeare’in şiir yazdığı gibi süpürün. O kadar güzel süpürün ki gökteki ve yerdeki herkes durup \"Burada işini çok iyi yapan, dünyanın en iyi çöpçüsü yaşıyormuş\" desin.",
+      "author": "Martin Luther King"
+    },
+    {
+      "text": "Nankör insan, her şeyin fiyatını bilen fakat hiçbir şeyin değerini bilmeyen insandır.",
+      "author": "3 Idiots"
+    },
+    {
+      "text": "Eğer ölümü hayatıma alırsam, kabul edersem ve onunla dürüstçe yüzleşirsem kendimi ölümün kaygısından ve hayatın önemsizliğinden kurtarırım ve ancak o zaman kendim olmak için özgür olabilirim.",
+      "author": "Martin Heidegger"
+    },
+    {
+      "text": "Her şey mümkün olduğunca basit yapılmalı, ancak daha basit değil.",
+      "author": "Albert Einstein"
+    },
+    {
+      "text": "Karmaşık şeylerin güzel olduğunu düşünmek insanların ortak yanlışıdır.",
+      "author": "Descartes"
+    },
+    {
+      "text": "Önemli olan hayatta en çok şeye sahip olmak değil, en az şeye ihtiyaç duymaktır.",
+      "author": "Platon"
+    },
+    {
+      "text": "Zaman sınırlı, onu bir başkasının hayatını yaşayarak israf etmeyin.",
+      "author": "Steve Jobs"
+    }
+  ],
+  "motivation": [
+    {
+      "text": "Her başarılı insanın bir planı, her başarısız insanın bir mazereti vardır.",
+      "author": "Henry Clausen"
+    },
+    {
+      "text": "Gerçek bir kahramanın gücü kaslarının değil, kalbinin kuvvetiyle ölçülür. Aradığım böyle bir kalp. Tek istediğim bunun gibi bir şey.",
+      "author": "Barış Özcan"
+    },
+    {
+      "text": "Tüm iyi kahramanlar aslında sıradan insanlardır. Ama kendilerini sıradışı yapan \"o şey\"i bulmuşlardır.",
+      "author": "Barış Özcan"
+    },
+    {
+      "text": "Tüm gücünle odaklan! O odaklanma gücünle içindeki güneş enerjisini dışındaki bir kıvılcıma dönüştür.",
+      "author": "Barış Özcan"
+    },
+    {
+      "text": "Hayallerinin sesi kısıktır. Neredeyse bir fısıltıdır.",
+      "author": "Barış Özcan"
+    },
+    {
+      "text": "Yarından bu kadar korku duyarsan, bugünü nasıl yaşarsın?",
+      "author": "3 Idiots"
+    },
+    {
+      "text": "Ne olursa olsun kalbinize \"her şey yolunda\" demelisiniz, çünkü kalbiniz çok hassastır ve sözlerinize çabuk kanar.",
+      "author": "3 Idiots"
+    },
+    {
+      "text": "Mükemmeli yakalamaya uğraş, o zaman başarı zaten seni kovalar.",
+      "author": "3 Idiots"
+    },
+    {
+      "text": "Bir insanın en ağır yükü, gerçekleştiremediği potansiyelidir.",
+      "author": "Charles Schulz"
+    },
+    {
+      "text": "İstediğimiz her şey konfor alanımızın hemen dışında.",
+      "author": "Robert Allen"
     }
   ]
 }

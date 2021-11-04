@@ -18,43 +18,39 @@
   </p>
 </p>
 
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
+# About The Project
 
-## About The Project
+Hello, I made a very small daily word application to embed in [notion](https://www.notion.so/) [note page](https://www.notion.so/ahmetcetinkaya/gununsozu-277ac52a2efb425f841bd9ff749bcf07). If you want to use it, you can use it and develop it.
 
-Hello, I made a very small daily mention app to embed in [notion](https://www.notion.so/) [note page](https://www.notion.so/ahmetcetinkaya/gununsozu-277ac52a2efb425f841bd9ff749bcf07). There is a small database for now, I think to increase it as I progress. If you want to use it, you can use it, you can develop it.
+Merhaba, [notion](https://www.notion.so/) [not sayfası](https://www.notion.so/ahmetcetinkaya/gununsozu-277ac52a2efb425f841bd9ff749bcf07)na gömmek için çok küçük bir günlük söz uygulaması yaptım. Siz de kullanmak istiyorsanız kullanabilir, geliştirebilirsiniz.
 
-Merhaba, [notion](https://www.notion.so/) [not sayfası](https://www.notion.so/ahmetcetinkaya/gununsozu-277ac52a2efb425f841bd9ff749bcf07)na gömmek için çok küçük bir günlük söz uygulaması yaptım. Şimdilik küçük bir veritabanı var, ilerledikçe artırmayı düşünüyorum. Siz de kullanmak istiyorsanız kullanabilir, geliştirebilirsiniz.
+## Built With
 
-### Built With
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://tr.reactjs.org/)
+[![Scss](https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 
-* [React](https://github.com/facebook/react)
+# Usage in Notion
 
-## Usage
 - Create new notion page
-- Create embed with ```/embed``` command.
-- Paste ```https://ahmet-cetinkaya.github.io/gununsozu/``` link
+- Create embed with `/embed` command.
+- Paste `https://ahmetcetinkaya.info/gununsozu/` link
 
-## License
+# Usage
+
+- Add iframe tag to your html file.
+
+```html
+<iframe src="https://ahmetcetinkaya.info/gununsozu/" width="600px" height="200px"></iframe>
+```
+
+# License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
+# Contact
 
-Ahmet Çetinkaya - [@ahmetctnky_txt](https://twitter.com/ahmetctnky_txt) - [ahmetcetinkaya7@outlook.com](mailto:ahmetcetinkaya7@outlook.com)
+Ahmet Çetinkaya - [ahmetcetinkaya.info](https://ahmetcetinkaya.info)
 
 [contributors-shield]: https://img.shields.io/github/contributors/ahmet-cetinkaya/gununsozu.svg?style=for-the-badge
 [contributors-url]: https://github.com/ahmet-cetinkaya/gununsozu/graphs/contributors
